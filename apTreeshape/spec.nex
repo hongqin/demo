@@ -1,0 +1,18 @@
+#NEXUS
+
+Begin trees; [Treefile created Sun Jan 23 21:28:16 2011]
+	Translate
+		1 Bmo,
+		2 Bsu,
+		3 Bam,
+		4 Bli,
+		5 Bpu,
+		6 Bce,
+		7 Ban,
+		8 Bth,
+		9 Bwe,
+		10 Bha,
+		11 Bcl
+;
+	 tree Bioperl_1 = [&R] ((((((1,2),3),4),5),((6,7,8),9)),(10,11));
+End;

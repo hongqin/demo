@@ -1,0 +1,29 @@
+#!/usr/local/bin/perl
+
+# Usage: Install install_directory
+
+$dir = shift(@ARGV);
+die "Usage: Install install_dir\n" unless $dir;
+die "$dir isn't directory!\n" unless -d $dir;
+$dir .= '/' unless ($dir =~ /\/$/);
+
+chop($perl_dir = `which perl`);
+die "ERROR: which command not found!\n" unless $perl_dir;
+print "There is $perl_dir.\n";
+
+@pfiles = <*.pl>;
+
+foreach $orgname (@pfiles) {
+	($newname) = ( $orgname =~ /(\w.*)\.pl/ );
+	print "$orgname\t->\t$dir$newname\n";
+	open(IN, "<$orgname");
+	open(OUT, ">$dir$newname");
+	<IN>;
+	print OUT "#!$perl_dir\n";
+	while (<IN>) {
+		print OUT;
+	}
+	close(IN);
+	close(OUT);
+	chmod(0755, "$dir$newname");
+}

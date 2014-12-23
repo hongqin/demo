@@ -1,0 +1,12 @@
+blastp -subject db.faa -query query.faa 
+
+makeblastdb -in db2.faa
+blastp -query my.seq.faa -db db2.faa | less
+
+blastp -query my.seq.faa -db db2.faa -outfmt 6
+blastp -query my.seq.faa -db db2.faa -outfmt 7 | less
+
+#old version, still work on osX
+blastall -p blastp -d db.faa -i query.faa -F F | less 
+
+

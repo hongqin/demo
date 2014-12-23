@@ -1,0 +1,2 @@
+grep liver db.txt | cut -f 1 | nl
+grep liver db.txt | cut -f 1 | sort | uniq | nl

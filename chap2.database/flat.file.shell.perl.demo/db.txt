@@ -1,0 +1,12 @@
+gene1	liver
+gene2	lung
+gene3	lung
+gene4	brain
+gene5	kindney
+gene6	liver
+gene7	lung
+gene8	lung
+gene9	liver
+gene10	lung
+gene11	brain
+gene1	liver

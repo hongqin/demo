@@ -1,0 +1,7 @@
+ meme tests/crp0.s -dna -nmotifs 3 -minw 6 -maxw 50 -maxiter 20 -dir /home/hqin/MEME/SVNROOT/trunk/INSTALLED > out.html
+
+firefox out.html
+
+OR use URL
+ http://meme.sdsc.edu/meme/meme.html
+

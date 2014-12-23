@@ -1,0 +1,11 @@
+
+echo "start"
+date
+blastall -p blastp -d prot.db.faa -i query.protein.faa -F F -o _out.prot.txt
+echo "blastp done"
+date
+blastall -p blastx -d prot.db.faa -i query.cds.faa -F F -o _out.dna.txt
+echo "blastx done"
+date
+
+

@@ -1,0 +1,11 @@
+Changes in abc 1.5
+============================
+
+---------
+  o Add the reference to the MEE paper in the CITATION file and in the vignette
+  try and enjoy
+  >if(nchar(system.file(package="abc"))) citation("abc")
+  o Add the AIC and BIC computation in the abc function.
+  They are used to select a subset of informative statistics.
+  It is the AIC/BIC of the local linear regression that is returned.
+

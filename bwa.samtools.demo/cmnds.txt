@@ -1,0 +1,22 @@
+
+http://bio-bwa.sourceforge.net/bwa.shtml
+    bwa index -a bwtsw database.fasta
+    bwa aln database.fasta short_read.fastq > aln_sa.sai
+    bwa samse database.fasta aln_sa.sai short_read.fastq > aln.sam
+    bwa sampe database.fasta aln_sa1.sai aln_sa2.sai read1.fq read2.fq > aln.sam
+    bwa bwasw database.fasta long_read.fastq > aln.sam 
+
+# I tried these 
+ bwa index sce.fasta
+ bwa samse sce.fasta M22.fasta YPS163.fasta > aln.sam
+
+-bash-3.2$ bwa aln sce.fasta M22.fasta > alnM22.sai
+[bwa_aln_core] calculate SA coordinate... Segmentation fault
+
+-bash-3.2$ bwa bwasw sce.fasta M22.fasta  > alnM22.sai 
+#this worked.
+
+-bash-3.2$ bwa samse sce.fasta alnM22.sai M22.fasta -f alnM22.sam 
+[bns_restore_core] fail to open file 'sce.fasta.nt.ann'. Abort!
+
+

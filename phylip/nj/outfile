@@ -1,0 +1,43 @@
+
+   7 Populations
+
+Neighbor-Joining/UPGMA method version 3.67
+
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---------------------------------------------Mouse     
+  ! 
+  !                        +---------------------Gibbon    
+  1------------------------2 
+  !                        !  +----------------Orang     
+  !                        +--5 
+  !                           ! +--------Gorilla   
+  !                           +-4 
+  !                             ! +--------Chimp     
+  !                             +-3 
+  !                               +------Human     
+  ! 
+  +------------------------------------------------------Bovine    
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          Mouse           0.76891
+   1             2            0.42027
+   2          Gibbon          0.35793
+   2             5            0.04648
+   5          Orang           0.28469
+   5             4            0.02696
+   4          Gorilla         0.15393
+   4             3            0.03982
+   3          Chimp           0.15168
+   3          Human           0.11753
+   1          Bovine          0.91769
+
+

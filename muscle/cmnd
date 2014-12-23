@@ -1,0 +1,3 @@
+muscle -in prot-bacillus.10char.2.faa -out prot-bacillus-aligned.10char.2.fasta -stable 
+
+

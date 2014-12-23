@@ -1,0 +1,231 @@
+
+========================[ Jun 6, 2007 10:06 AM ]========================
+ERROR: [000.000] No database name was specified
+
+========================[ Jun 6, 2007 10:06 AM ]========================
+Version 2.2.16 [Mar-25-2007]
+Started database file "pepdb.10.faa"
+NOTE: CoreLib [002.003] FileOpen("C:\Documents and Settings\hong_man\FORMATDB.INI","r") failed
+NOTE: CoreLib [002.003] FileOpen("C:\WINDOWS\FORMATDB.INI","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 10 sequences in volume 0
+SUCCESS: formatted database pepdb.10.faa
+
+========================[ Jun 6, 2007 10:06 AM ]========================
+Version 2.2.16 [Mar-25-2007]
+Started database file "pepdb.100.faa"
+NOTE: CoreLib [002.003] FileOpen("C:\Documents and Settings\hong_man\FORMATDB.INI","r") failed
+NOTE: CoreLib [002.003] FileOpen("C:\WINDOWS\FORMATDB.INI","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 100 sequences in volume 0
+SUCCESS: formatted database pepdb.100.faa
+
+========================[ Jun 6, 2007 10:06 AM ]========================
+Version 2.2.16 [Mar-25-2007]
+Started database file "pepdb.1000.faa"
+NOTE: CoreLib [002.003] FileOpen("C:\Documents and Settings\hong_man\FORMATDB.INI","r") failed
+NOTE: CoreLib [002.003] FileOpen("C:\WINDOWS\FORMATDB.INI","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1000 sequences in volume 0
+SUCCESS: formatted database pepdb.1000.faa
+
+========================[ Jun 15, 2007  1:01 PM ]========================
+Version 2.2.16 [Mar-25-2007]
+Started database file "first.faa"
+NOTE: CoreLib [002.003] FileOpen("C:\Documents and Settings\hong_man\FORMATDB.INI","r") failed
+NOTE: CoreLib [002.003] FileOpen("C:\WINDOWS\FORMATDB.INI","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1 sequences in volume 0
+SUCCESS: formatted database first.faa
+
+========================[ Jun 15, 2007  1:03 PM ]========================
+Version 2.2.16 [Mar-25-2007]
+Started database file "first.faa"
+NOTE: CoreLib [002.003] FileOpen("C:\Documents and Settings\hong_man\FORMATDB.INI","r") failed
+NOTE: CoreLib [002.003] FileOpen("C:\WINDOWS\FORMATDB.INI","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1 sequences in volume 0
+SUCCESS: formatted database first.faa
+
+========================[ Jun 15, 2007  1:03 PM ]========================
+Version 2.2.16 [Mar-25-2007]
+Started database file "first.faa"
+NOTE: CoreLib [002.003] FileOpen("C:\Documents and Settings\hong_man\FORMATDB.INI","r") failed
+NOTE: CoreLib [002.003] FileOpen("C:\WINDOWS\FORMATDB.INI","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1 sequences in volume 0
+SUCCESS: formatted database first.faa
+
+========================[ Jun 15, 2007  1:07 PM ]========================
+Version 2.2.16 [Mar-25-2007]
+Started database file "first.faa"
+NOTE: CoreLib [002.003] FileOpen("C:\Documents and Settings\hong_man\FORMATDB.INI","r") failed
+NOTE: CoreLib [002.003] FileOpen("C:\WINDOWS\FORMATDB.INI","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1 sequences in volume 0
+SUCCESS: formatted database first.faa
+
+========================[ Jun 15, 2007  1:19 PM ]========================
+Version 2.2.16 [Mar-25-2007]
+Started database file "first.faa"
+NOTE: CoreLib [002.003] FileOpen("C:\Documents and Settings\hong_man\FORMATDB.INI","r") failed
+NOTE: CoreLib [002.003] FileOpen("C:\WINDOWS\FORMATDB.INI","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1 sequences in volume 0
+SUCCESS: formatted database first.faa
+
+========================[ Jun 15, 2007  1:19 PM ]========================
+Version 2.2.16 [Mar-25-2007]
+Started database file "second.faa"
+NOTE: CoreLib [002.003] FileOpen("C:\Documents and Settings\hong_man\FORMATDB.INI","r") failed
+NOTE: CoreLib [002.003] FileOpen("C:\WINDOWS\FORMATDB.INI","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 2 sequences in volume 0
+SUCCESS: formatted database second.faa
+
+========================[ Jun 15, 2007  1:23 PM ]========================
+Version 2.2.16 [Mar-25-2007]
+Started database file "second.faa"
+NOTE: CoreLib [002.003] FileOpen("C:\Documents and Settings\hong_man\FORMATDB.INI","r") failed
+NOTE: CoreLib [002.003] FileOpen("C:\WINDOWS\FORMATDB.INI","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 2 sequences in volume 0
+SUCCESS: formatted database second.faa
+
+========================[ Jun 15, 2007  1:26 PM ]========================
+Version 2.2.16 [Mar-25-2007]
+Started database file "2and3.faa"
+NOTE: CoreLib [002.003] FileOpen("C:\Documents and Settings\hong_man\FORMATDB.INI","r") failed
+NOTE: CoreLib [002.003] FileOpen("C:\WINDOWS\FORMATDB.INI","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 2 sequences in volume 0
+SUCCESS: formatted database 2and3.faa
+
+========================[ Jun 15, 2007  1:27 PM ]========================
+Version 2.2.16 [Mar-25-2007]
+Started database file "db.faa"
+NOTE: CoreLib [002.003] FileOpen("C:\Documents and Settings\hong_man\FORMATDB.INI","r") failed
+NOTE: CoreLib [002.003] FileOpen("C:\WINDOWS\FORMATDB.INI","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 2 sequences in volume 0
+SUCCESS: formatted database db.faa
+
+========================[ Jun 20, 2007 10:37 AM ]========================
+Version 2.2.15 [Oct-15-2006]
+Started database file "db2.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/hqin/.formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/etc/ncbi/formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/etc/ncbi/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 12 sequences in volume 0
+SUCCESS: formatted database db2.faa
+
+========================[ Jun 20, 2007 10:46 AM ]========================
+Version 2.2.15 [Oct-15-2006]
+Started database file "db.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/hqin/.formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/etc/ncbi/formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/etc/ncbi/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 2 sequences in volume 0
+SUCCESS: formatted database db.faa
+
+========================[ Jun 20, 2007 10:47 AM ]========================
+Version 2.2.15 [Oct-15-2006]
+Started database file "db3.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/hqin/.formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/etc/ncbi/formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/etc/ncbi/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 102 sequences in volume 0
+SUCCESS: formatted database db3.faa
+
+========================[ Sep 1, 2007 10:15 PM ]========================
+Version 2.2.13 [Nov-27-2005]
+Started database file "db.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/hqin/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 2 sequences in volume 0
+
+========================[ Sep 1, 2007 10:18 PM ]========================
+Version 2.2.13 [Nov-27-2005]
+Started database file "db2.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/hqin/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 12 sequences in volume 0
+
+========================[ Sep 1, 2007 10:18 PM ]========================
+Version 2.2.13 [Nov-27-2005]
+Started database file "db3.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/hqin/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 102 sequences in volume 0
+
+========================[ Sep 1, 2007 10:19 PM ]========================
+Version 2.2.13 [Nov-27-2005]
+Started database file "db3.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/hqin/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 102 sequences in volume 0
+
+========================[ Sep 1, 2007 10:19 PM ]========================
+Version 2.2.13 [Nov-27-2005]
+Started database file "db2.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/hqin/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 12 sequences in volume 0
+
+========================[ Sep 12, 2007  5:20 PM ]========================
+Version 2.2.13 [Nov-27-2005]
+Started database file "sce.protein.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/hqin/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 6357 sequences in volume 0
+
+========================[ Sep 12, 2007  5:27 PM ]========================
+Version 2.2.13 [Nov-27-2005]
+Started database file "prot.db.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/hqin/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 20331 sequences in volume 0
+
+========================[ Sep 12, 2007  5:29 PM ]========================
+Version 2.2.13 [Nov-27-2005]
+Started database file "prot.db.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/hqin/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 20331 sequences in volume 0

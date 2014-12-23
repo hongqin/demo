@@ -1,0 +1,14 @@
+#Analysing block num.1
+#Feature: Defined by config file
+#Analysis for the complete block:
+#Config file: cds.conf
+#Options: useMuts: 1, runMode: 12, completeDeletion: 1, fixNum: 1, numNuc: 9, startPosition: 1, endPosition: 4294967295
+#Start in reference sequence: 1
+#End in reference sequence: 876
+#Start in alignment: 1
+#End in alignment: 915
+#Num of analysed sites: 855
+#Num of discarded sites: 60
+#Num of dicarded nucleotides per site: 0.000000
+#        S        Eta      Eta_E         Pi      Theta   Tajima_D FuLi_Dstar FuLi_Fstar
+#      560        944        377  0.3543535  0.4062368 -0.6670623  0.0590376 -0.1321587

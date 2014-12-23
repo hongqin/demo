@@ -1,0 +1,8 @@
+"in.mcl.backup" is a sample file sent from Hongwei Wu, Gatech. 
+Note larger value of edge means nodes are closer. The values are treated as weights,
+not as distances. 
+
+mcl in.mcl
+
+mcl mydata --abc
+

@@ -1,0 +1,51 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Sat Jul  5 22:16:23 2008]
+[!
+>Data file = /home/hqin/projects/coat.protein07/orthog.analysis/merge.mcl.rbh.061208/bacillus.phylo.I3.1/BG10012/prot-bacillus-paup.nexus
+>Bootstrap method with heuristic search:
+>  Number of bootstrap replicates = 500
+>  Starting seed = 1182632238
+>  Optimality criterion = parsimony
+>    Character-status summary:
+>      Of 235 total characters:
+>        All characters are of type 'unord'
+>        All characters have equal weight
+>        41 characters are constant
+>        55 variable characters are parsimony-uninformative
+>        Number of parsimony-informative characters = 139
+>    Gaps are treated as "missing"
+>  Starting tree(s) obtained via stepwise addition
+>  Addition sequence: random
+>    Number of replicates = 10
+>    Starting seed = 1182632238
+>  Number of trees held at each step during stepwise addition = 1
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR)
+>  Steepest descent option not in effect
+>  Initial 'MaxTrees' setting = 100
+>  Branches collapsed (creating polytomies) if maximum branch length is zero
+>  'MulTrees' option in effect
+>  Topological constraints not enforced
+>  Trees are unrooted
+>
+>   500 bootstrap replicates completed
+>   Time used = 32 sec (CPU time = 31.78 sec)
+]
+	Translate
+		1 BA_3121_Ban,
+		2 BG10012_Bsu,
+		3 BG11595_Bsu,
+		4 BG13779_Bsu,
+		5 BG13780_Bsu,
+		6 BH3888_Bha,
+		7 BPUM_0868_Bpu,
+		8 Bmo3201_Bmo,
+		9 NT02BT3082_Bth,
+		10 NT03BL2052_Bli,
+		11 NT03BL4618_Bli,
+		12 RBAM_005880_Bam,
+		13 RBAM_009440_Bam,
+		14 RBAM_037610_Bam
+		;
+tree PAUP_1 = [&R] (1,(((2,14)50.834301,11)93.520348,(((3,(7,13)69.020256)60.300808,6)100.000000,4,(5,12)100.000000,(8,10)66.852921)96.973679)100.000000,9)0;
+End;

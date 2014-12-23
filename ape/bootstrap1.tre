@@ -1,0 +1,1600 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Sat Jul  5 20:30:47 2008]
+[!>Trees found during each bootstrap replicate using data file '~/projects/coat.protein07/orthog.analysis/merge.mcl.rbh.061208/bacillus.phylo.I3.1/BG14052/prot-bacillus-paup.nexus'...]
+[!
+>Bootstrap method with heuristic search:
+>  Number of bootstrap replicates = 500
+>  Starting seed = 502293409
+>  Optimality criterion = parsimony
+>    Character-status summary:
+>      Of 129 total characters:
+>        All characters are of type 'unord'
+>        All characters have equal weight
+>        40 characters are constant
+>        81 variable characters are parsimony-uninformative
+>        Number of parsimony-informative characters = 8
+>    Gaps are treated as "missing"
+>  Starting tree(s) obtained via stepwise addition
+>  Addition sequence: random
+>    Number of replicates = 10
+>    Starting seed = 502293409
+>  Number of trees held at each step during stepwise addition = 1
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR)
+>  Steepest descent option not in effect
+>  Initial 'MaxTrees' setting = 100
+>  Branches collapsed (creating polytomies) if maximum branch length is zero
+>  'MulTrees' option in effect
+>  Topological constraints not enforced
+>  Trees are unrooted
+]
+	Translate
+		1 BG14052_Bsu,
+		2 BPUM_2842_Bpu,
+		3 NT03BL3561_Bli,
+		4 RBAM_028810_Bam
+		;
+
+[Trees found in bootstrap replicate #1 (seed=502293409)]
+tree B_1.1 = [&U] [&W 1] (1:30,(2:20,3:15):44,4:25);
+
+[Trees found in bootstrap replicate #2 (seed=1028458164)]
+tree B_2.1 = [&U] [&W 1] (1:47,(2:18,3:18):33,4:26);
+
+[Trees found in bootstrap replicate #3 (seed=948099912)]
+tree B_3.1 = [&U] [&W 1] (1:34,(2:23,3:14):44,4:23);
+
+[Trees found in bootstrap replicate #4 (seed=1108790433)]
+tree B_4.1 = [&U] [&W 1] (1:29,(2:23,3:19):44,4:16);
+
+[Trees found in bootstrap replicate #5 (seed=342417563)]
+tree B_5.1 = [&U] [&W 1] (1:38,(2:23,3:13):45,4:16);
+
+[Trees found in bootstrap replicate #6 (seed=104999603)]
+tree B_6.1 = [&U] [&W 1] (1:32,(2:25,3:19):40,4:26);
+
+[Trees found in bootstrap replicate #7 (seed=1325850248)]
+tree B_7.1 = [&U] [&W 1] (1:23,(2:26,3:15):45,4:27);
+
+[Trees found in bootstrap replicate #8 (seed=1925657148)]
+tree B_8.1 = [&U] [&W 1] (1:29,(2:23,3:18):50,4:29);
+
+[Trees found in bootstrap replicate #9 (seed=690230613)]
+tree B_9.1 = [&U] [&W 1/2] (1:34,(2:49,4:20):18,3:22);
+tree B_9.2 = [&U] [&W 1/2] (1:40,(2:27,3:15):36,4:25);
+
+[Trees found in bootstrap replicate #10 (seed=1843597731)]
+tree B_10.1 = [&U] [&W 1] (1:38,(2:27,3:14):37,4:27);
+
+[Trees found in bootstrap replicate #11 (seed=1340975127)]
+tree B_11.1 = [&U] [&W 1] (1:33,(2:18,3:21):34,4:29);
+
+[Trees found in bootstrap replicate #12 (seed=616394962)]
+tree B_12.1 = [&U] [&W 1] (1:33,(2:16,3:15):46,4:30);
+
+[Trees found in bootstrap replicate #13 (seed=1570032226)]
+tree B_13.1 = [&U] [&W 1] (1:39,(2:16,3:11):46,4:25);
+
+[Trees found in bootstrap replicate #14 (seed=518196388)]
+tree B_14.1 = [&U] [&W 1] (1:41,(2:26,3:19):43,4:26);
+
+[Trees found in bootstrap replicate #15 (seed=808711910)]
+tree B_15.1 = [&U] [&W 1] (1:35,(2:16,3:13):35,4:27);
+
+[Trees found in bootstrap replicate #16 (seed=1600472092)]
+tree B_16.1 = [&U] [&W 1] (1:36,(2:25,3:14):40,4:28);
+
+[Trees found in bootstrap replicate #17 (seed=676145144)]
+tree B_17.1 = [&U] [&W 1] (1:34,(2:25,3:17):38,4:27);
+
+[Trees found in bootstrap replicate #18 (seed=1152147776)]
+tree B_18.1 = [&U] [&W 1] (1:30,(2:32,3:11):40,4:35);
+
+[Trees found in bootstrap replicate #19 (seed=1644652547)]
+tree B_19.1 = [&U] [&W 1] (1:43,(2:22,3:14):51,4:24);
+
+[Trees found in bootstrap replicate #20 (seed=1709648203)]
+tree B_20.1 = [&U] [&W 1] (1:35,(2:31,3:18):42,4:35);
+
+[Trees found in bootstrap replicate #21 (seed=2013819074)]
+tree B_21.1 = [&U] [&W 1] (1:27,(2:19,3:20):41,4:23);
+
+[Trees found in bootstrap replicate #22 (seed=1201064223)]
+tree B_22.1 = [&U] [&W 1] (1:26,(2:23,3:18):28,4:34);
+
+[Trees found in bootstrap replicate #23 (seed=1182925520)]
+tree B_23.1 = [&U] [&W 1] (1:39,(2:19,3:18):45,4:25);
+
+[Trees found in bootstrap replicate #24 (seed=1483701903)]
+tree B_24.1 = [&U] [&W 1] (1:36,(2:23,3:16):29,4:27);
+
+[Trees found in bootstrap replicate #25 (seed=234192198)]
+tree B_25.1 = [&U] [&W 1] (1:32,(2:32,3:16):39,4:25);
+
+[Trees found in bootstrap replicate #26 (seed=447779516)]
+tree B_26.1 = [&U] [&W 1] (1:34,(2:16,3:23):37,4:26);
+
+[Trees found in bootstrap replicate #27 (seed=1290471604)]
+tree B_27.1 = [&U] [&W 1] (1:23,(2:23,3:19):36,4:27);
+
+[Trees found in bootstrap replicate #28 (seed=1694299671)]
+tree B_28.1 = [&U] [&W 1] (1:38,(2:27,3:23):40,4:39);
+
+[Trees found in bootstrap replicate #29 (seed=1717087729)]
+tree B_29.1 = [&U] [&W 1] (1:32,(2:15,3:20):44,4:32);
+
+[Trees found in bootstrap replicate #30 (seed=1013499698)]
+tree B_30.1 = [&U] [&W 1] (1:29,(2:27,3:12):30,4:17);
+
+[Trees found in bootstrap replicate #31 (seed=1916791970)]
+tree B_31.1 = [&U] [&W 1] (1:40,2:49,(3:24,4:18):20);
+
+[Trees found in bootstrap replicate #32 (seed=843297251)]
+tree B_32.1 = [&U] [&W 1] (1:35,(2:19,3:12):38,4:41);
+
+[Trees found in bootstrap replicate #33 (seed=427559567)]
+tree B_33.1 = [&U] [&W 1] (1:29,(2:20,3:18):46,4:29);
+
+[Trees found in bootstrap replicate #34 (seed=113774361)]
+tree B_34.1 = [&U] [&W 1] (1:39,(2:24,3:17):32,4:32);
+
+[Trees found in bootstrap replicate #35 (seed=387164569)]
+tree B_35.1 = [&U] [&W 1] (1:30,2:51,(3:19,4:15):21);
+
+[Trees found in bootstrap replicate #36 (seed=617655878)]
+tree B_36.1 = [&U] [&W 1] (1:38,(2:18,3:11):37,4:24);
+
+[Trees found in bootstrap replicate #37 (seed=1531459550)]
+tree B_37.1 = [&U] [&W 1] (1:49,(2:20,3:16):35,4:24);
+
+[Trees found in bootstrap replicate #38 (seed=302886622)]
+tree B_38.1 = [&U] [&W 1] (1:20,(2:25,3:20):23,4:27);
+
+[Trees found in bootstrap replicate #39 (seed=123643479)]
+tree B_39.1 = [&U] [&W 1] (1:28,(2:29,3:20):43,4:26);
+
+[Trees found in bootstrap replicate #40 (seed=454350468)]
+tree B_40.1 = [&U] [&W 1/2] (1:37,(2:44,4:22):16,3:29);
+tree B_40.2 = [&U] [&W 1/2] (1:39,(2:32,3:18):35,4:24);
+
+[Trees found in bootstrap replicate #41 (seed=2134810553)]
+tree B_41.1 = [&U] [&W 1] (1:35,(2:29,3:17):41,4:30);
+
+[Trees found in bootstrap replicate #42 (seed=1744062963)]
+tree B_42.1 = [&U] [&W 1] (1:32,(2:16,3:19):39,4:20);
+
+[Trees found in bootstrap replicate #43 (seed=372529673)]
+tree B_43.1 = [&U] [&W 1] (1:31,2:46,(3:27,4:18):19);
+
+[Trees found in bootstrap replicate #44 (seed=782226254)]
+tree B_44.1 = [&U] [&W 1] (1:33,(2:22,3:19):37,4:30);
+
+[Trees found in bootstrap replicate #45 (seed=1077912631)]
+tree B_45.1 = [&U] [&W 1/2] (1:32,(2:37,4:34):27,3:21);
+tree B_45.2 = [&U] [&W 1/2] (1:36,(2:25,3:15):38,4:37);
+
+[Trees found in bootstrap replicate #46 (seed=934421620)]
+tree B_46.1 = [&U] [&W 1] (1:38,(2:27,3:22):37,4:22);
+
+[Trees found in bootstrap replicate #47 (seed=129668124)]
+tree B_47.1 = [&U] [&W 1] (1:38,(2:19,3:14):43,4:27);
+
+[Trees found in bootstrap replicate #48 (seed=72809544)]
+tree B_48.1 = [&U] [&W 1] (1:39,(2:20,3:14):40,4:28);
+
+[Trees found in bootstrap replicate #49 (seed=167588780)]
+tree B_49.1 = [&U] [&W 1/3] (1:38,(2:33,3:22):43,4:31);
+tree B_49.2 = [&U] [&W 1/3] (1:36,(2:53,4:25):19,3:34);
+tree B_49.3 = [&U] [&W 1/3] (1:41,2:60,(3:33,4:16):17);
+
+[Trees found in bootstrap replicate #50 (seed=582382411)]
+tree B_50.1 = [&U] [&W 1] (1:29,(2:23,3:15):34,4:31);
+
+[Trees found in bootstrap replicate #51 (seed=1547249169)]
+tree B_51.1 = [&U] [&W 1] (1:38,(2:24,3:10):34,4:26);
+
+[Trees found in bootstrap replicate #52 (seed=1279414684)]
+tree B_52.1 = [&U] [&W 1/2] (1:32,2:43,(3:26,4:22):19);
+tree B_52.2 = [&U] [&W 1/2] (1:29,(2:22,3:21):34,4:36);
+
+[Trees found in bootstrap replicate #53 (seed=1450165450)]
+tree B_53.1 = [&U] [&W 1/3] (1:41,2:45,(3:25,4:11):16);
+tree B_53.2 = [&U] [&W 1/3] (1:42,(2:17,3:23):34,4:22);
+tree B_53.3 = [&U] [&W 1/3] (1:40,(2:42,4:21):8,3:27);
+
+[Trees found in bootstrap replicate #54 (seed=223713155)]
+tree B_54.1 = [&U] [&W 1] (1:41,(2:27,3:19):38,4:32);
+
+[Trees found in bootstrap replicate #55 (seed=1810935745)]
+tree B_55.1 = [&U] [&W 1] (1:31,(2:20,3:14):41,4:21);
+
+[Trees found in bootstrap replicate #56 (seed=1249920054)]
+tree B_56.1 = [&U] [&W 1] (1:39,(2:38,3:12):40,4:26);
+
+[Trees found in bootstrap replicate #57 (seed=674950046)]
+tree B_57.1 = [&U] [&W 1/2] (1:28,2:53,(3:22,4:15):14);
+tree B_57.2 = [&U] [&W 1/2] (1:28,(2:23,3:15):40,4:26);
+
+[Trees found in bootstrap replicate #58 (seed=94994476)]
+tree B_58.1 = [&U] [&W 1] (1:21,(2:27,3:19):33,4:34);
+
+[Trees found in bootstrap replicate #59 (seed=616711249)]
+tree B_59.1 = [&U] [&W 1/2] (1:34,(2:24,3:17):34,4:34);
+tree B_59.2 = [&U] [&W 1/2] (1:35,2:46,(3:24,4:17):21);
+
+[Trees found in bootstrap replicate #60 (seed=1773974870)]
+tree B_60.1 = [&U] [&W 1] (1:37,2:53,(3:20,4:20):20);
+
+[Trees found in bootstrap replicate #61 (seed=507975346)]
+tree B_61.1 = [&U] [&W 1] (1:37,(2:21,3:14):32,4:24);
+
+[Trees found in bootstrap replicate #62 (seed=1297914931)]
+tree B_62.1 = [&U] [&W 1] (1:31,(2:19,3:17):33,4:28);
+
+[Trees found in bootstrap replicate #63 (seed=2047914557)]
+tree B_63.1 = [&U] [&W 1] (1:27,(2:24,3:18):28,4:23);
+
+[Trees found in bootstrap replicate #64 (seed=993072599)]
+tree B_64.1 = [&U] [&W 1] (1:28,(2:30,3:13):39,4:36);
+
+[Trees found in bootstrap replicate #65 (seed=1444708377)]
+tree B_65.1 = [&U] [&W 1] (1:39,(2:17,3:14):38,4:29);
+
+[Trees found in bootstrap replicate #66 (seed=540183858)]
+tree B_66.1 = [&U] [&W 1] (1:35,(2:30,3:14):35,4:27);
+
+[Trees found in bootstrap replicate #67 (seed=244370482)]
+tree B_67.1 = [&U] [&W 1] (1:31,(2:22,3:12):38,4:24);
+
+[Trees found in bootstrap replicate #68 (seed=1305010726)]
+tree B_68.1 = [&U] [&W 1] (1:40,(2:21,3:20):40,4:21);
+
+[Trees found in bootstrap replicate #69 (seed=1778268588)]
+tree B_69.1 = [&U] [&W 1] (1:39,(2:15,3:14):45,4:25);
+
+[Trees found in bootstrap replicate #70 (seed=1517521844)]
+tree B_70.1 = [&U] [&W 1] (1:35,(2:15,3:19):55,4:19);
+
+[Trees found in bootstrap replicate #71 (seed=1611372586)]
+tree B_71.1 = [&U] [&W 1] (1:40,2:54,(3:19,4:18):18);
+
+[Trees found in bootstrap replicate #72 (seed=23292998)]
+tree B_72.1 = [&U] [&W 1] (1:34,(2:25,3:13):32,4:32);
+
+[Trees found in bootstrap replicate #73 (seed=2050078783)]
+tree B_73.1 = [&U] [&W 1] (1:38,(2:33,3:9):31,4:17);
+
+[Trees found in bootstrap replicate #74 (seed=126335083)]
+tree B_74.1 = [&U] [&W 1] (1:34,(2:17,3:15):39,4:27);
+
+[Trees found in bootstrap replicate #75 (seed=1613922324)]
+tree B_75.1 = [&U] [&W 1] (1:33,(2:29,3:12):46,4:24);
+
+[Trees found in bootstrap replicate #76 (seed=2023590319)]
+tree B_76.1 = [&U] [&W 1] (1:29,2:49,(3:24,4:19):22);
+
+[Trees found in bootstrap replicate #77 (seed=1906982535)]
+tree B_77.1 = [&U] [&W 1] (1:36,2:52,(3:18,4:17):16);
+
+[Trees found in bootstrap replicate #78 (seed=429003077)]
+tree B_78.1 = [&U] [&W 1] (1:34,(2:21,3:15):39,4:23);
+
+[Trees found in bootstrap replicate #79 (seed=206226130)]
+tree B_79.1 = [&U] [&W 1] (1:33,(2:23,3:12):51,4:25);
+
+[Trees found in bootstrap replicate #80 (seed=1037991915)]
+tree B_80.1 = [&U] [&W 1] (1:46,(2:23,3:24):46,4:22);
+
+[Trees found in bootstrap replicate #81 (seed=162488614)]
+tree B_81.1 = [&U] [&W 1/2] (1:35,2:50,(3:24,4:20):24);
+tree B_81.2 = [&U] [&W 1/2] (1:32,(2:25,3:15):45,4:36);
+
+[Trees found in bootstrap replicate #82 (seed=924197676)]
+tree B_82.1 = [&U] [&W 1] (1:34,(2:23,3:18):39,4:21);
+
+[Trees found in bootstrap replicate #83 (seed=171047760)]
+tree B_83.1 = [&U] [&W 1] (1:41,(2:15,3:14):44,4:29);
+
+[Trees found in bootstrap replicate #84 (seed=593470511)]
+tree B_84.1 = [&U] [&W 1] (1:36,(2:19,3:15):47,4:24);
+
+[Trees found in bootstrap replicate #85 (seed=1359289669)]
+tree B_85.1 = [&U] [&W 1] (1:32,(2:17,3:17):46,4:24);
+
+[Trees found in bootstrap replicate #86 (seed=1829226396)]
+tree B_86.1 = [&U] [&W 1] (1:38,(2:26,3:15):36,4:35);
+
+[Trees found in bootstrap replicate #87 (seed=280424046)]
+tree B_87.1 = [&U] [&W 1] (1:24,(2:23,3:18):31,4:32);
+
+[Trees found in bootstrap replicate #88 (seed=1379322737)]
+tree B_88.1 = [&U] [&W 1] (1:38,2:63,(3:24,4:14):17);
+
+[Trees found in bootstrap replicate #89 (seed=639366262)]
+tree B_89.1 = [&U] [&W 1/2] (1:33,2:46,(3:15,4:24):18);
+tree B_89.2 = [&U] [&W 1/2] (1:30,(2:20,3:15):36,4:35);
+
+[Trees found in bootstrap replicate #90 (seed=1457105651)]
+tree B_90.1 = [&U] [&W 1] (1:38,2:48,(3:21,4:18):18);
+
+[Trees found in bootstrap replicate #91 (seed=1794715690)]
+tree B_91.1 = [&U] [&W 1] (1:36,2:42,(3:22,4:13):21);
+
+[Trees found in bootstrap replicate #92 (seed=974508500)]
+tree B_92.1 = [&U] [&W 1] (1:28,(2:28,3:8):39,4:25);
+
+[Trees found in bootstrap replicate #93 (seed=1726588504)]
+tree B_93.1 = [&U] [&W 1] (1:37,(2:29,3:19):40,4:26);
+
+[Trees found in bootstrap replicate #94 (seed=459791735)]
+tree B_94.1 = [&U] [&W 1] (1:23,(2:16,3:21):45,4:27);
+
+[Trees found in bootstrap replicate #95 (seed=807432550)]
+tree B_95.1 = [&U] [&W 1] (1:30,(2:23,3:19):38,4:13);
+
+[Trees found in bootstrap replicate #96 (seed=367573606)]
+tree B_96.1 = [&U] [&W 1] (1:31,2:54,(3:24,4:15):22);
+
+[Trees found in bootstrap replicate #97 (seed=525042240)]
+tree B_97.1 = [&U] [&W 1] (1:34,(2:25,3:17):37,4:29);
+
+[Trees found in bootstrap replicate #98 (seed=149368646)]
+tree B_98.1 = [&U] [&W 1] (1:34,(2:23,3:20):45,4:36);
+
+[Trees found in bootstrap replicate #99 (seed=1910181898)]
+tree B_99.1 = [&U] [&W 1] (1:34,(2:25,3:23):33,4:26);
+
+[Trees found in bootstrap replicate #100 (seed=167789123)]
+tree B_100.1 = [&U] [&W 1] (1:39,(2:26,3:18):38,4:29);
+
+[Trees found in bootstrap replicate #101 (seed=149725858)]
+tree B_101.1 = [&U] [&W 1] (1:37,(2:25,3:14):47,4:28);
+
+[Trees found in bootstrap replicate #102 (seed=809690675)]
+tree B_102.1 = [&U] [&W 1/2] (1:45,2:50,(3:35,4:17):15);
+tree B_102.2 = [&U] [&W 1/2] (1:43,(2:20,3:27):43,4:29);
+
+[Trees found in bootstrap replicate #103 (seed=1948860432)]
+tree B_103.1 = [&U] [&W 1] (1:35,2:38,(3:26,4:17):16);
+
+[Trees found in bootstrap replicate #104 (seed=1918596804)]
+tree B_104.1 = [&U] [&W 1] (1:24,(2:20,3:19):35,4:26);
+
+[Trees found in bootstrap replicate #105 (seed=604483084)]
+tree B_105.1 = [&U] [&W 1] (1:35,(2:25,3:9):33,4:25);
+
+[Trees found in bootstrap replicate #106 (seed=2091189857)]
+tree B_106.1 = [&U] [&W 1] (1:29,2:35,(3:24,4:13):18);
+
+[Trees found in bootstrap replicate #107 (seed=1814487242)]
+tree B_107.1 = [&U] [&W 1] (1:32,(2:19,3:16):43,4:26);
+
+[Trees found in bootstrap replicate #108 (seed=44402707)]
+tree B_108.1 = [&U] [&W 1] (1:34,(2:15,3:20):44,4:22);
+
+[Trees found in bootstrap replicate #109 (seed=840437981)]
+tree B_109.1 = [&U] [&W 1] (1:28,(2:26,3:20):48,4:24);
+
+[Trees found in bootstrap replicate #110 (seed=1135703524)]
+tree B_110.1 = [&U] [&W 1/3] (1:32,(2:51,4:20):12,3:26);
+tree B_110.2 = [&U] [&W 1/3] (1:35,(2:31,3:16):38,4:21);
+tree B_110.3 = [&U] [&W 1/3] (1:35,2:56,(3:26,4:12):12);
+
+[Trees found in bootstrap replicate #111 (seed=1524863001)]
+tree B_111.1 = [&U] [&W 1] (1:31,(2:20,3:21):33,4:17);
+
+[Trees found in bootstrap replicate #112 (seed=897964701)]
+tree B_112.1 = [&U] [&W 1] (1:33,(2:25,3:13):47,4:24);
+
+[Trees found in bootstrap replicate #113 (seed=1443422917)]
+tree B_113.1 = [&U] [&W 1] (1:35,(2:19,3:19):35,4:23);
+
+[Trees found in bootstrap replicate #114 (seed=349164602)]
+tree B_114.1 = [&U] [&W 1] (1:25,(2:21,3:15):43,4:26);
+
+[Trees found in bootstrap replicate #115 (seed=491373183)]
+tree B_115.1 = [&U] [&W 1] (1:36,(2:24,3:15):41,4:25);
+
+[Trees found in bootstrap replicate #116 (seed=1643723304)]
+tree B_116.1 = [&U] [&W 1] (1:34,(2:29,3:16):41,4:21);
+
+[Trees found in bootstrap replicate #117 (seed=1591416122)]
+tree B_117.1 = [&U] [&W 1] (1:42,(2:22,3:13):43,4:30);
+
+[Trees found in bootstrap replicate #118 (seed=788791724)]
+tree B_118.1 = [&U] [&W 1] (1:36,(2:17,3:14):40,4:24);
+
+[Trees found in bootstrap replicate #119 (seed=718133771)]
+tree B_119.1 = [&U] [&W 1] (1:36,(2:22,3:8):47,4:32);
+
+[Trees found in bootstrap replicate #120 (seed=1190577856)]
+tree B_120.1 = [&U] [&W 1] (1:29,(2:32,3:13):41,4:31);
+
+[Trees found in bootstrap replicate #121 (seed=572274089)]
+tree B_121.1 = [&U] [&W 1] (1:36,(2:15,3:20):41,4:28);
+
+[Trees found in bootstrap replicate #122 (seed=386215394)]
+tree B_122.1 = [&U] [&W 1] (1:33,(2:27,3:16):40,4:25);
+
+[Trees found in bootstrap replicate #123 (seed=319973516)]
+tree B_123.1 = [&U] [&W 1] (1:35,(2:25,3:24):38,4:34);
+
+[Trees found in bootstrap replicate #124 (seed=276522812)]
+tree B_124.1 = [&U] [&W 1] (1:31,(2:29,3:18):39,4:25);
+
+[Trees found in bootstrap replicate #125 (seed=665972078)]
+tree B_125.1 = [&U] [&W 1] (1:39,(2:21,3:14):47,4:26);
+
+[Trees found in bootstrap replicate #126 (seed=1311774852)]
+tree B_126.1 = [&U] [&W 1] (1:29,2:45,(3:17,4:18):19);
+
+[Trees found in bootstrap replicate #127 (seed=594522818)]
+tree B_127.1 = [&U] [&W 1] (1:40,(2:21,3:8):41,4:30);
+
+[Trees found in bootstrap replicate #128 (seed=722002596)]
+tree B_128.1 = [&U] [&W 1] (1:38,(2:28,3:21):42,4:24);
+
+[Trees found in bootstrap replicate #129 (seed=1732707867)]
+tree B_129.1 = [&U] [&W 1] (1:32,(2:26,3:15):32,4:23);
+
+[Trees found in bootstrap replicate #130 (seed=1228157073)]
+tree B_130.1 = [&U] [&W 1] (1:33,(2:25,3:17):42,4:21);
+
+[Trees found in bootstrap replicate #131 (seed=217048024)]
+tree B_131.1 = [&U] [&W 1] (1:36,(2:19,3:20):47,4:21);
+
+[Trees found in bootstrap replicate #132 (seed=467447516)]
+tree B_132.1 = [&U] [&W 1] (1:31,(2:23,3:10):37,4:28);
+
+[Trees found in bootstrap replicate #133 (seed=2071164192)]
+tree B_133.1 = [&U] [&W 1] (1:33,2:49,(3:25,4:18):13);
+
+[Trees found in bootstrap replicate #134 (seed=2081401015)]
+tree B_134.1 = [&U] [&W 1] (1:38,(2:18,3:20):38,4:34);
+
+[Trees found in bootstrap replicate #135 (seed=1780066017)]
+tree B_135.1 = [&U] [&W 1] (1:28,(2:24,3:12):35,4:43);
+
+[Trees found in bootstrap replicate #136 (seed=589622670)]
+tree B_136.1 = [&U] [&W 1] (1:35,(2:17,3:16):34,4:28);
+
+[Trees found in bootstrap replicate #137 (seed=669068942)]
+tree B_137.1 = [&U] [&W 1] (1:41,(2:31,3:16):39,4:33);
+
+[Trees found in bootstrap replicate #138 (seed=1092350319)]
+tree B_138.1 = [&U] [&W 1/2] (1:45,2:54,(3:20,4:12):14);
+tree B_138.2 = [&U] [&W 1/2] (1:44,(2:23,3:17):42,4:19);
+
+[Trees found in bootstrap replicate #139 (seed=473424618)]
+tree B_139.1 = [&U] [&W 1] (1:40,(2:28,3:17):40,4:30);
+
+[Trees found in bootstrap replicate #140 (seed=984155924)]
+tree B_140.1 = [&U] [&W 1] (1:35,(2:25,3:21):36,4:30);
+
+[Trees found in bootstrap replicate #141 (seed=772025283)]
+tree B_141.1 = [&U] [&W 1] (1:31,(2:22,3:14):38,4:27);
+
+[Trees found in bootstrap replicate #142 (seed=2113596365)]
+tree B_142.1 = [&U] [&W 1] (1:30,(2:26,3:15):38,4:28);
+
+[Trees found in bootstrap replicate #143 (seed=517304940)]
+tree B_143.1 = [&U] [&W 1] (1:34,(2:19,3:19):36,4:31);
+
+[Trees found in bootstrap replicate #144 (seed=1997723914)]
+tree B_144.1 = [&U] [&W 1] (1:39,(2:26,3:18):42,4:26);
+
+[Trees found in bootstrap replicate #145 (seed=663585430)]
+tree B_145.1 = [&U] [&W 1] (1:33,(2:16,3:21):44,4:25);
+
+[Trees found in bootstrap replicate #146 (seed=640380927)]
+tree B_146.1 = [&U] [&W 1] (1:37,(2:23,3:12):37,4:20);
+
+[Trees found in bootstrap replicate #147 (seed=426406266)]
+tree B_147.1 = [&U] [&W 1] (1:38,(2:23,3:15):43,4:28);
+
+[Trees found in bootstrap replicate #148 (seed=518194720)]
+tree B_148.1 = [&U] [&W 1] (1:27,2:50,(3:25,4:11):16);
+
+[Trees found in bootstrap replicate #149 (seed=699314020)]
+tree B_149.1 = [&U] [&W 1/3] (1:33,(2:42,4:34):18,3:32);
+tree B_149.2 = [&U] [&W 1/3] (1:35,(2:27,3:22):37,4:38);
+tree B_149.3 = [&U] [&W 1/3] (1:37,2:50,(3:27,4:22):23);
+
+[Trees found in bootstrap replicate #150 (seed=1596676253)]
+tree B_150.1 = [&U] [&W 1] (1:34,2:57,(3:19,4:16):13);
+
+[Trees found in bootstrap replicate #151 (seed=1975185286)]
+tree B_151.1 = [&U] [&W 1/2] (1:36,(2:26,3:23):36,4:26);
+tree B_151.2 = [&U] [&W 1/2] (1:31,(2:45,4:19):17,3:35);
+
+[Trees found in bootstrap replicate #152 (seed=587685088)]
+tree B_152.1 = [&U] [&W 1] (1:30,(2:20,3:16):39,4:27);
+
+[Trees found in bootstrap replicate #153 (seed=163091605)]
+tree B_153.1 = [&U] [&W 1] (1:39,(2:27,3:20):36,4:24);
+
+[Trees found in bootstrap replicate #154 (seed=481035833)]
+tree B_154.1 = [&U] [&W 1] (1:35,(2:23,3:17):44,4:34);
+
+[Trees found in bootstrap replicate #155 (seed=164394144)]
+tree B_155.1 = [&U] [&W 1] (1:36,(2:25,3:13):42,4:25);
+
+[Trees found in bootstrap replicate #156 (seed=1243744855)]
+tree B_156.1 = [&U] [&W 1/2] (1:41,(2:22,3:14):48,4:29);
+tree B_156.2 = [&U] [&W 1/2] (1:42,2:57,(3:20,4:16):19);
+
+[Trees found in bootstrap replicate #157 (seed=29643063)]
+tree B_157.1 = [&U] [&W 1] (1:32,(2:21,3:25):41,4:32);
+
+[Trees found in bootstrap replicate #158 (seed=1639780559)]
+tree B_158.1 = [&U] [&W 1] (1:37,(2:22,3:22):38,4:33);
+
+[Trees found in bootstrap replicate #159 (seed=156227199)]
+tree B_159.1 = [&U] [&W 1] (1:34,(2:20,3:21):48,4:25);
+
+[Trees found in bootstrap replicate #160 (seed=1401495869)]
+tree B_160.1 = [&U] [&W 1/2] (1:33,2:42,(3:22,4:17):18);
+tree B_160.2 = [&U] [&W 1/2] (1:30,(2:22,3:17):35,4:28);
+
+[Trees found in bootstrap replicate #161 (seed=1308490094)]
+tree B_161.1 = [&U] [&W 1] (1:45,(2:16,3:24):51,4:30);
+
+[Trees found in bootstrap replicate #162 (seed=144771589)]
+tree B_162.1 = [&U] [&W 1] (1:35,(2:21,3:19):44,4:21);
+
+[Trees found in bootstrap replicate #163 (seed=217244768)]
+tree B_163.1 = [&U] [&W 1] (1:41,(2:22,3:21):36,4:28);
+
+[Trees found in bootstrap replicate #164 (seed=434751344)]
+tree B_164.1 = [&U] [&W 1] (1:43,(2:17,3:13):50,4:29);
+
+[Trees found in bootstrap replicate #165 (seed=1890610552)]
+tree B_165.1 = [&U] [&W 1] (1:37,(2:19,3:12):44,4:20);
+
+[Trees found in bootstrap replicate #166 (seed=1910239299)]
+tree B_166.1 = [&U] [&W 1] (1:36,(2:25,3:16):33,4:30);
+
+[Trees found in bootstrap replicate #167 (seed=886375439)]
+tree B_167.1 = [&U] [&W 1] (1:33,(2:25,3:23):32,4:26);
+
+[Trees found in bootstrap replicate #168 (seed=1020641956)]
+tree B_168.1 = [&U] [&W 1] (1:31,(2:16,3:16):43,4:35);
+
+[Trees found in bootstrap replicate #169 (seed=1586551660)]
+tree B_169.1 = [&U] [&W 1] (1:40,(2:25,3:17):34,4:22);
+
+[Trees found in bootstrap replicate #170 (seed=815589376)]
+tree B_170.1 = [&U] [&W 1] (1:42,(2:21,3:13):34,4:25);
+
+[Trees found in bootstrap replicate #171 (seed=280007502)]
+tree B_171.1 = [&U] [&W 1] (1:31,(2:27,3:15):37,4:20);
+
+[Trees found in bootstrap replicate #172 (seed=123102268)]
+tree B_172.1 = [&U] [&W 1] (1:33,(2:22,3:13):44,4:23);
+
+[Trees found in bootstrap replicate #173 (seed=695663195)]
+tree B_173.1 = [&U] [&W 1] (1:36,(2:23,3:17):37,4:26);
+
+[Trees found in bootstrap replicate #174 (seed=1066693408)]
+tree B_174.1 = [&U] [&W 1] (1:32,(2:18,3:16):30,4:26);
+
+[Trees found in bootstrap replicate #175 (seed=188051446)]
+tree B_175.1 = [&U] [&W 1] (1:38,(2:22,3:22):44,4:34);
+
+[Trees found in bootstrap replicate #176 (seed=1855095029)]
+tree B_176.1 = [&U] [&W 1] (1:36,(2:27,3:23):43,4:28);
+
+[Trees found in bootstrap replicate #177 (seed=2030436211)]
+tree B_177.1 = [&U] [&W 1] (1:33,(2:27,3:13):38,4:28);
+
+[Trees found in bootstrap replicate #178 (seed=1276011926)]
+tree B_178.1 = [&U] [&W 1] (1:32,(2:25,3:14):49,4:27);
+
+[Trees found in bootstrap replicate #179 (seed=1052944204)]
+tree B_179.1 = [&U] [&W 1] (1:40,(2:24,3:12):51,4:21);
+
+[Trees found in bootstrap replicate #180 (seed=449493881)]
+tree B_180.1 = [&U] [&W 1] (1:34,(2:30,3:16):37,4:27);
+
+[Trees found in bootstrap replicate #181 (seed=1573459173)]
+tree B_181.1 = [&U] [&W 1] (1:35,(2:22,3:17):38,4:27);
+
+[Trees found in bootstrap replicate #182 (seed=624766797)]
+tree B_182.1 = [&U] [&W 1/2] (1:31,(2:42,4:28):19,3:30);
+tree B_182.2 = [&U] [&W 1/2] (1:36,(2:21,3:21):44,4:28);
+
+[Trees found in bootstrap replicate #183 (seed=178354378)]
+tree B_183.1 = [&U] [&W 1] (1:31,(2:22,3:20):33,4:25);
+
+[Trees found in bootstrap replicate #184 (seed=882352658)]
+tree B_184.1 = [&U] [&W 1] (1:25,(2:21,3:20):35,4:28);
+
+[Trees found in bootstrap replicate #185 (seed=1870407936)]
+tree B_185.1 = [&U] [&W 1] (1:33,(2:25,3:20):41,4:40);
+
+[Trees found in bootstrap replicate #186 (seed=2022269093)]
+tree B_186.1 = [&U] [&W 1] (1:36,(2:21,3:15):36,4:21);
+
+[Trees found in bootstrap replicate #187 (seed=1579486663)]
+tree B_187.1 = [&U] [&W 1] (1:35,(2:56,4:24):21,3:30);
+
+[Trees found in bootstrap replicate #188 (seed=1992795504)]
+tree B_188.1 = [&U] [&W 1] (1:28,(2:31,3:16):35,4:31);
+
+[Trees found in bootstrap replicate #189 (seed=1501917944)]
+tree B_189.1 = [&U] [&W 1] (1:33,(2:22,3:11):35,4:22);
+
+[Trees found in bootstrap replicate #190 (seed=566563538)]
+tree B_190.1 = [&U] [&W 1] (1:48,(2:25,3:16):48,4:21);
+
+[Trees found in bootstrap replicate #191 (seed=758345431)]
+tree B_191.1 = [&U] [&W 1/2] (1:29,2:50,(3:24,4:17):21);
+tree B_191.2 = [&U] [&W 1/2] (1:29,(2:28,3:20):32,4:32);
+
+[Trees found in bootstrap replicate #192 (seed=27940511)]
+tree B_192.1 = [&U] [&W 1] (1:35,2:54,(3:26,4:19):18);
+
+[Trees found in bootstrap replicate #193 (seed=877577284)]
+tree B_193.1 = [&U] [&W 1] (1:32,(2:19,3:13):42,4:25);
+
+[Trees found in bootstrap replicate #194 (seed=664273394)]
+tree B_194.1 = [&U] [&W 1] (1:28,(2:23,3:15):36,4:30);
+
+[Trees found in bootstrap replicate #195 (seed=71981845)]
+tree B_195.1 = [&U] [&W 1] (1:41,(2:24,3:16):40,4:14);
+
+[Trees found in bootstrap replicate #196 (seed=1209218331)]
+tree B_196.1 = [&U] [&W 1] (1:35,(2:18,3:17):35,4:27);
+
+[Trees found in bootstrap replicate #197 (seed=778050244)]
+tree B_197.1 = [&U] [&W 1] (1:34,(2:25,3:16):29,4:29);
+
+[Trees found in bootstrap replicate #198 (seed=882457592)]
+tree B_198.1 = [&U] [&W 1] (1:30,(2:24,3:16):40,4:20);
+
+[Trees found in bootstrap replicate #199 (seed=1676755697)]
+tree B_199.1 = [&U] [&W 1] (1:28,(2:23,3:26):38,4:34);
+
+[Trees found in bootstrap replicate #200 (seed=1619910408)]
+tree B_200.1 = [&U] [&W 1] (1:32,(2:34,4:21):20,3:24);
+
+[Trees found in bootstrap replicate #201 (seed=673230805)]
+tree B_201.1 = [&U] [&W 1] (1:33,(2:13,3:18):34,4:29);
+
+[Trees found in bootstrap replicate #202 (seed=1722089380)]
+tree B_202.1 = [&U] [&W 1] (1:35,(2:23,3:17):44,4:30);
+
+[Trees found in bootstrap replicate #203 (seed=1391906645)]
+tree B_203.1 = [&U] [&W 1] (1:31,(2:19,3:9):37,4:36);
+
+[Trees found in bootstrap replicate #204 (seed=595593400)]
+tree B_204.1 = [&U] [&W 1] (1:34,(2:20,3:15):38,4:27);
+
+[Trees found in bootstrap replicate #205 (seed=431005850)]
+tree B_205.1 = [&U] [&W 1] (1:35,(2:22,3:21):40,4:28);
+
+[Trees found in bootstrap replicate #206 (seed=1050784315)]
+tree B_206.1 = [&U] [&W 1/2] (1:35,2:51,(3:25,4:15):18);
+tree B_206.2 = [&U] [&W 1/2] (1:34,(2:27,3:17):38,4:28);
+
+[Trees found in bootstrap replicate #207 (seed=902875589)]
+tree B_207.1 = [&U] [&W 1] (1:38,(2:30,3:15):51,4:17);
+
+[Trees found in bootstrap replicate #208 (seed=1598221674)]
+tree B_208.1 = [&U] [&W 1] (1:33,(2:26,3:15):47,4:27);
+
+[Trees found in bootstrap replicate #209 (seed=535027782)]
+tree B_209.1 = [&U] [&W 1/2] (1:32,2:52,(3:25,4:19):18);
+tree B_209.2 = [&U] [&W 1/2] (1:32,(2:28,3:19):35,4:32);
+
+[Trees found in bootstrap replicate #210 (seed=1193625602)]
+tree B_210.1 = [&U] [&W 1] (1:35,(2:20,3:13):31,4:29);
+
+[Trees found in bootstrap replicate #211 (seed=1482998936)]
+tree B_211.1 = [&U] [&W 1] (1:38,(2:24,3:12):41,4:27);
+
+[Trees found in bootstrap replicate #212 (seed=629700485)]
+tree B_212.1 = [&U] [&W 1] (1:38,(2:24,3:10):37,4:32);
+
+[Trees found in bootstrap replicate #213 (seed=1473180956)]
+tree B_213.1 = [&U] [&W 1] (1:36,(2:29,3:18):34,4:33);
+
+[Trees found in bootstrap replicate #214 (seed=1938926107)]
+tree B_214.1 = [&U] [&W 1] (1:31,(2:21,3:19):42,4:25);
+
+[Trees found in bootstrap replicate #215 (seed=1501480995)]
+tree B_215.1 = [&U] [&W 1] (1:35,(2:42,4:25):20,3:30);
+
+[Trees found in bootstrap replicate #216 (seed=137563422)]
+tree B_216.1 = [&U] [&W 1] (1:31,(2:25,3:12):50,4:28);
+
+[Trees found in bootstrap replicate #217 (seed=1310227808)]
+tree B_217.1 = [&U] [&W 1] (1:24,(2:22,3:18):38,4:26);
+
+[Trees found in bootstrap replicate #218 (seed=1688766213)]
+tree B_218.1 = [&U] [&W 1] (1:43,(2:17,3:19):35,4:26);
+
+[Trees found in bootstrap replicate #219 (seed=734211935)]
+tree B_219.1 = [&U] [&W 1] (1:32,(2:26,3:10):50,4:14);
+
+[Trees found in bootstrap replicate #220 (seed=1483675598)]
+tree B_220.1 = [&U] [&W 1/2] (1:28,(2:19,3:16):40,4:25);
+tree B_220.2 = [&U] [&W 1/2] (1:34,2:44,(3:22,4:16):12);
+
+[Trees found in bootstrap replicate #221 (seed=97671409)]
+tree B_221.1 = [&U] [&W 1] (1:33,(2:24,3:19):37,4:31);
+
+[Trees found in bootstrap replicate #222 (seed=765143523)]
+tree B_222.1 = [&U] [&W 1/2] (1:36,(2:22,3:20):28,4:31);
+tree B_222.2 = [&U] [&W 1/2] (1:36,2:45,(3:22,4:15):19);
+
+[Trees found in bootstrap replicate #223 (seed=1998869176)]
+tree B_223.1 = [&U] [&W 1] (1:29,(2:24,3:19):29,4:32);
+
+[Trees found in bootstrap replicate #224 (seed=1804728041)]
+tree B_224.1 = [&U] [&W 1] (1:34,(2:17,3:17):38,4:23);
+
+[Trees found in bootstrap replicate #225 (seed=365298051)]
+tree B_225.1 = [&U] [&W 1] (1:34,(2:22,3:19):40,4:23);
+
+[Trees found in bootstrap replicate #226 (seed=1075885615)]
+tree B_226.1 = [&U] [&W 1] (1:43,(2:28,3:17):45,4:29);
+
+[Trees found in bootstrap replicate #227 (seed=1952823923)]
+tree B_227.1 = [&U] [&W 1] (1:30,(2:19,3:20):34,4:23);
+
+[Trees found in bootstrap replicate #228 (seed=352523155)]
+tree B_228.1 = [&U] [&W 1] (1:37,(2:15,3:21):36,4:31);
+
+[Trees found in bootstrap replicate #229 (seed=2013954233)]
+tree B_229.1 = [&U] [&W 1] (1:41,(2:20,3:25):42,4:26);
+
+[Trees found in bootstrap replicate #230 (seed=1776969316)]
+tree B_230.1 = [&U] [&W 1] (1:26,(2:24,3:16):44,4:23);
+
+[Trees found in bootstrap replicate #231 (seed=1193101228)]
+tree B_231.1 = [&U] [&W 1] (1:33,(2:24,3:21):38,4:34);
+
+[Trees found in bootstrap replicate #232 (seed=513734131)]
+tree B_232.1 = [&U] [&W 1] (1:30,(2:25,3:12):46,4:27);
+
+[Trees found in bootstrap replicate #233 (seed=242341662)]
+tree B_233.1 = [&U] [&W 1] (1:30,(2:26,3:20):38,4:18);
+
+[Trees found in bootstrap replicate #234 (seed=2117548112)]
+tree B_234.1 = [&U] [&W 1] (1:32,(2:18,3:14):42,4:24);
+
+[Trees found in bootstrap replicate #235 (seed=1358438018)]
+tree B_235.1 = [&U] [&W 1] (1:32,(2:31,3:15):42,4:31);
+
+[Trees found in bootstrap replicate #236 (seed=913695662)]
+tree B_236.1 = [&U] [&W 1] (1:36,(2:23,3:17):38,4:27);
+
+[Trees found in bootstrap replicate #237 (seed=4447612)]
+tree B_237.1 = [&U] [&W 1] (1:35,(2:27,3:16):42,4:29);
+
+[Trees found in bootstrap replicate #238 (seed=1184285627)]
+tree B_238.1 = [&U] [&W 1] (1:34,(2:27,3:17):37,4:29);
+
+[Trees found in bootstrap replicate #239 (seed=130663061)]
+tree B_239.1 = [&U] [&W 1] (1:38,(2:21,3:18):35,4:30);
+
+[Trees found in bootstrap replicate #240 (seed=81102242)]
+tree B_240.1 = [&U] [&W 1] (1:34,(2:19,3:15):32,4:26);
+
+[Trees found in bootstrap replicate #241 (seed=1966976712)]
+tree B_241.1 = [&U] [&W 1] (1:26,(2:19,3:22):32,4:32);
+
+[Trees found in bootstrap replicate #242 (seed=1550511241)]
+tree B_242.1 = [&U] [&W 1/2] (1:33,(2:41,4:31):19,3:22);
+tree B_242.2 = [&U] [&W 1/2] (1:36,2:49,(3:22,4:24):15);
+
+[Trees found in bootstrap replicate #243 (seed=133129247)]
+tree B_243.1 = [&U] [&W 1] (1:39,(2:21,3:11):39,4:26);
+
+[Trees found in bootstrap replicate #244 (seed=798656268)]
+tree B_244.1 = [&U] [&W 1] (1:36,(2:21,3:14):36,4:25);
+
+[Trees found in bootstrap replicate #245 (seed=1299002953)]
+tree B_245.1 = [&U] [&W 1] (1:29,(2:17,3:12):40,4:23);
+
+[Trees found in bootstrap replicate #246 (seed=1242493509)]
+tree B_246.1 = [&U] [&W 1] (1:31,(2:23,3:21):34,4:25);
+
+[Trees found in bootstrap replicate #247 (seed=2024535242)]
+tree B_247.1 = [&U] [&W 1] (1:36,2:51,(3:24,4:18):20);
+
+[Trees found in bootstrap replicate #248 (seed=262393494)]
+tree B_248.1 = [&U] [&W 1] (1:31,(2:20,3:16):44,4:23);
+
+[Trees found in bootstrap replicate #249 (seed=278656733)]
+tree B_249.1 = [&U] [&W 1] (1:38,(2:24,3:16):41,4:21);
+
+[Trees found in bootstrap replicate #250 (seed=1120415567)]
+tree B_250.1 = [&U] [&W 1] (1:39,2:45,(3:19,4:20):18);
+
+[Trees found in bootstrap replicate #251 (seed=439991764)]
+tree B_251.1 = [&U] [&W 1/2] (1:33,2:45,(3:28,4:9):22);
+tree B_251.2 = [&U] [&W 1/2] (1:33,(2:15,3:27):37,4:25);
+
+[Trees found in bootstrap replicate #252 (seed=638393649)]
+tree B_252.1 = [&U] [&W 1] (1:29,2:38,(3:19,4:12):26);
+
+[Trees found in bootstrap replicate #253 (seed=1177464356)]
+tree B_253.1 = [&U] [&W 1] (1:34,(2:26,3:21):37,4:29);
+
+[Trees found in bootstrap replicate #254 (seed=777407507)]
+tree B_254.1 = [&U] [&W 1/2] (1:38,(2:19,3:11):36,4:27);
+tree B_254.2 = [&U] [&W 1/2] (1:37,(2:34,4:25):18,3:17);
+
+[Trees found in bootstrap replicate #255 (seed=1587289117)]
+tree B_255.1 = [&U] [&W 1] (1:30,(2:28,3:12):35,4:29);
+
+[Trees found in bootstrap replicate #256 (seed=725211834)]
+tree B_256.1 = [&U] [&W 1/2] (1:31,(2:22,3:18):37,4:29);
+tree B_256.2 = [&U] [&W 1/2] (1:32,2:48,(3:23,4:13):21);
+
+[Trees found in bootstrap replicate #257 (seed=154493984)]
+tree B_257.1 = [&U] [&W 1/2] (1:32,2:45,(3:25,4:13):14);
+tree B_257.2 = [&U] [&W 1/2] (1:31,(2:19,3:21):35,4:23);
+
+[Trees found in bootstrap replicate #258 (seed=1169667425)]
+tree B_258.1 = [&U] [&W 1] (1:37,(2:26,3:16):41,4:23);
+
+[Trees found in bootstrap replicate #259 (seed=1936013678)]
+tree B_259.1 = [&U] [&W 1/3] (1:28,(2:46,4:22):24,3:29);
+tree B_259.2 = [&U] [&W 1/3] (1:34,(2:25,3:22):39,4:29);
+tree B_259.3 = [&U] [&W 1/3] (1:34,2:53,(3:29,4:16):17);
+
+[Trees found in bootstrap replicate #260 (seed=1815604140)]
+tree B_260.1 = [&U] [&W 1] (1:35,(2:24,3:13):35,4:26);
+
+[Trees found in bootstrap replicate #261 (seed=1467590304)]
+tree B_261.1 = [&U] [&W 1] (1:40,(2:20,3:17):39,4:30);
+
+[Trees found in bootstrap replicate #262 (seed=1726469766)]
+tree B_262.1 = [&U] [&W 1] (1:35,(2:22,3:16):35,4:23);
+
+[Trees found in bootstrap replicate #263 (seed=525717145)]
+tree B_263.1 = [&U] [&W 1] (1:34,(2:27,3:16):32,4:23);
+
+[Trees found in bootstrap replicate #264 (seed=786989802)]
+tree B_264.1 = [&U] [&W 1] (1:34,(2:16,3:18):37,4:32);
+
+[Trees found in bootstrap replicate #265 (seed=874993575)]
+tree B_265.1 = [&U] [&W 1] (1:23,(2:25,3:16):35,4:30);
+
+[Trees found in bootstrap replicate #266 (seed=69157806)]
+tree B_266.1 = [&U] [&W 1] (1:28,(2:26,3:19):47,4:24);
+
+[Trees found in bootstrap replicate #267 (seed=332177364)]
+tree B_267.1 = [&U] [&W 1] (1:39,(2:30,3:19):46,4:22);
+
+[Trees found in bootstrap replicate #268 (seed=159166166)]
+tree B_268.1 = [&U] [&W 1] (1:31,(2:19,3:16):39,4:30);
+
+[Trees found in bootstrap replicate #269 (seed=46986949)]
+tree B_269.1 = [&U] [&W 1] (1:42,(2:21,3:19):41,4:30);
+
+[Trees found in bootstrap replicate #270 (seed=1545183741)]
+tree B_270.1 = [&U] [&W 1] (1:31,(2:25,3:10):53,4:24);
+
+[Trees found in bootstrap replicate #271 (seed=1895101978)]
+tree B_271.1 = [&U] [&W 1] (1:33,(2:17,3:17):30,4:27);
+
+[Trees found in bootstrap replicate #272 (seed=349645140)]
+tree B_272.1 = [&U] [&W 1] (1:35,(2:27,3:16):44,4:31);
+
+[Trees found in bootstrap replicate #273 (seed=1505558255)]
+tree B_273.1 = [&U] [&W 1] (1:33,(2:27,3:12):46,4:25);
+
+[Trees found in bootstrap replicate #274 (seed=618115869)]
+tree B_274.1 = [&U] [&W 1] (1:33,(2:20,3:14):40,4:24);
+
+[Trees found in bootstrap replicate #275 (seed=587787491)]
+tree B_275.1 = [&U] [&W 1] (1:30,(2:28,3:8):30,4:24);
+
+[Trees found in bootstrap replicate #276 (seed=53207812)]
+tree B_276.1 = [&U] [&W 1] (1:37,(2:21,3:19):35,4:21);
+
+[Trees found in bootstrap replicate #277 (seed=220975320)]
+tree B_277.1 = [&U] [&W 1] (1:32,(2:25,3:15):42,4:25);
+
+[Trees found in bootstrap replicate #278 (seed=876519629)]
+tree B_278.1 = [&U] [&W 1] (1:32,(2:26,3:20):32,4:28);
+
+[Trees found in bootstrap replicate #279 (seed=729361964)]
+tree B_279.1 = [&U] [&W 1] (1:33,(2:18,3:16):41,4:21);
+
+[Trees found in bootstrap replicate #280 (seed=1320194061)]
+tree B_280.1 = [&U] [&W 1] (1:29,(2:27,3:17):44,4:28);
+
+[Trees found in bootstrap replicate #281 (seed=1130615126)]
+tree B_281.1 = [&U] [&W 1] (1:37,(2:20,3:10):41,4:27);
+
+[Trees found in bootstrap replicate #282 (seed=1623978779)]
+tree B_282.1 = [&U] [&W 1] (1:30,(2:30,3:15):38,4:29);
+
+[Trees found in bootstrap replicate #283 (seed=485814568)]
+tree B_283.1 = [&U] [&W 1] (1:23,(2:30,3:9):35,4:27);
+
+[Trees found in bootstrap replicate #284 (seed=264880096)]
+tree B_284.1 = [&U] [&W 1] (1:32,(2:28,3:21):39,4:24);
+
+[Trees found in bootstrap replicate #285 (seed=445228342)]
+tree B_285.1 = [&U] [&W 1/2] (1:35,(2:26,3:22):34,4:32);
+tree B_285.2 = [&U] [&W 1/2] (1:29,(2:45,4:23):22,3:30);
+
+[Trees found in bootstrap replicate #286 (seed=1492821439)]
+tree B_286.1 = [&U] [&W 1/2] (1:40,(2:26,3:14):35,4:23);
+tree B_286.2 = [&U] [&W 1/2] (1:41,2:48,(3:23,4:11):15);
+
+[Trees found in bootstrap replicate #287 (seed=649664636)]
+tree B_287.1 = [&U] [&W 1] (1:37,(2:22,3:15):45,4:20);
+
+[Trees found in bootstrap replicate #288 (seed=1059923543)]
+tree B_288.1 = [&U] [&W 1] (1:43,(2:18,3:23):39,4:23);
+
+[Trees found in bootstrap replicate #289 (seed=1327562378)]
+tree B_289.1 = [&U] [&W 1] (1:25,(2:15,3:17):30,4:26);
+
+[Trees found in bootstrap replicate #290 (seed=354887163)]
+tree B_290.1 = [&U] [&W 1] (1:35,(2:25,3:12):36,4:27);
+
+[Trees found in bootstrap replicate #291 (seed=1658810957)]
+tree B_291.1 = [&U] [&W 1] (1:42,(2:13,3:17):33,4:20);
+
+[Trees found in bootstrap replicate #292 (seed=183817236)]
+tree B_292.1 = [&U] [&W 1] (1:29,(2:21,3:16):44,4:29);
+
+[Trees found in bootstrap replicate #293 (seed=1179616258)]
+tree B_293.1 = [&U] [&W 1] (1:32,(2:14,3:26):37,4:26);
+
+[Trees found in bootstrap replicate #294 (seed=832731397)]
+tree B_294.1 = [&U] [&W 1] (1:28,(2:18,3:21):29,4:31);
+
+[Trees found in bootstrap replicate #295 (seed=75358626)]
+tree B_295.1 = [&U] [&W 1/2] (1:45,2:49,(3:26,4:25):20);
+tree B_295.2 = [&U] [&W 1/2] (1:42,(2:23,3:22):39,4:39);
+
+[Trees found in bootstrap replicate #296 (seed=1702574559)]
+tree B_296.1 = [&U] [&W 1/2] (1:38,(2:16,3:23):34,4:24);
+tree B_296.2 = [&U] [&W 1/2] (1:37,2:45,(3:25,4:15):13);
+
+[Trees found in bootstrap replicate #297 (seed=10356522)]
+tree B_297.1 = [&U] [&W 1/2] (1:37,2:43,(3:22,4:19):14);
+tree B_297.2 = [&U] [&W 1/2] (1:32,(2:20,3:22):32,4:29);
+
+[Trees found in bootstrap replicate #298 (seed=1119698996)]
+tree B_298.1 = [&U] [&W 1] (1:30,(2:17,3:7):52,4:20);
+
+[Trees found in bootstrap replicate #299 (seed=849636497)]
+tree B_299.1 = [&U] [&W 1] (1:36,(2:23,3:13):34,4:19);
+
+[Trees found in bootstrap replicate #300 (seed=664666614)]
+tree B_300.1 = [&U] [&W 1] (1:35,(2:31,3:16):34,4:34);
+
+[Trees found in bootstrap replicate #301 (seed=890234536)]
+tree B_301.1 = [&U] [&W 1] (1:24,(2:15,3:18):45,4:29);
+
+[Trees found in bootstrap replicate #302 (seed=1104993212)]
+tree B_302.1 = [&U] [&W 1] (1:38,2:47,(3:22,4:16):18);
+
+[Trees found in bootstrap replicate #303 (seed=124311563)]
+tree B_303.1 = [&U] [&W 1] (1:39,(2:16,3:18):36,4:27);
+
+[Trees found in bootstrap replicate #304 (seed=817127380)]
+tree B_304.1 = [&U] [&W 1] (1:36,(2:20,3:12):50,4:21);
+
+[Trees found in bootstrap replicate #305 (seed=1363478665)]
+tree B_305.1 = [&U] [&W 1] (1:50,(2:28,3:21):35,4:33);
+
+[Trees found in bootstrap replicate #306 (seed=2109058381)]
+tree B_306.1 = [&U] [&W 1] (1:33,(2:23,3:21):44,4:27);
+
+[Trees found in bootstrap replicate #307 (seed=728931105)]
+tree B_307.1 = [&U] [&W 1] (1:32,2:52,(3:17,4:22):12);
+
+[Trees found in bootstrap replicate #308 (seed=379092463)]
+tree B_308.1 = [&U] [&W 1] (1:30,(2:16,3:17):32,4:19);
+
+[Trees found in bootstrap replicate #309 (seed=668963156)]
+tree B_309.1 = [&U] [&W 1] (1:33,(2:26,3:15):39,4:19);
+
+[Trees found in bootstrap replicate #310 (seed=1755406830)]
+tree B_310.1 = [&U] [&W 1/2] (1:36,(2:45,4:28):15,3:22);
+tree B_310.2 = [&U] [&W 1/2] (1:41,(2:21,3:16):38,4:30);
+
+[Trees found in bootstrap replicate #311 (seed=410358742)]
+tree B_311.1 = [&U] [&W 1] (1:32,(2:30,3:18):39,4:37);
+
+[Trees found in bootstrap replicate #312 (seed=483714238)]
+tree B_312.1 = [&U] [&W 1] (1:38,(2:26,3:20):45,4:26);
+
+[Trees found in bootstrap replicate #313 (seed=1356940122)]
+tree B_313.1 = [&U] [&W 1] (1:37,(2:20,3:16):30,4:19);
+
+[Trees found in bootstrap replicate #314 (seed=1435940080)]
+tree B_314.1 = [&U] [&W 1] (1:33,(2:25,3:15):35,4:25);
+
+[Trees found in bootstrap replicate #315 (seed=1498359886)]
+tree B_315.1 = [&U] [&W 1] (1:40,(2:19,3:21):38,4:35);
+
+[Trees found in bootstrap replicate #316 (seed=607917075)]
+tree B_316.1 = [&U] [&W 1] (1:37,(2:27,3:10):37,4:30);
+
+[Trees found in bootstrap replicate #317 (seed=1825475694)]
+tree B_317.1 = [&U] [&W 1] (1:32,(2:26,3:18):42,4:24);
+
+[Trees found in bootstrap replicate #318 (seed=41445422)]
+tree B_318.1 = [&U] [&W 1/2] (1:36,2:40,(3:30,4:12):19);
+tree B_318.2 = [&U] [&W 1/2] (1:34,(2:20,3:26):34,4:23);
+
+[Trees found in bootstrap replicate #319 (seed=1549720514)]
+tree B_319.1 = [&U] [&W 1] (1:32,(2:14,3:16):45,4:24);
+
+[Trees found in bootstrap replicate #320 (seed=556058227)]
+tree B_320.1 = [&U] [&W 1/2] (1:45,2:50,(3:27,4:13):19);
+tree B_320.2 = [&U] [&W 1/2] (1:39,(2:47,4:20):20,3:28);
+
+[Trees found in bootstrap replicate #321 (seed=1742790121)]
+tree B_321.1 = [&U] [&W 1] (1:29,(2:25,3:13):39,4:24);
+
+[Trees found in bootstrap replicate #322 (seed=4858937)]
+tree B_322.1 = [&U] [&W 1/2] (1:35,2:46,(3:24,4:23):17);
+tree B_322.2 = [&U] [&W 1/2] (1:34,(2:24,3:17):34,4:36);
+
+[Trees found in bootstrap replicate #323 (seed=617632126)]
+tree B_323.1 = [&U] [&W 1] (1:28,(2:20,3:18):42,4:31);
+
+[Trees found in bootstrap replicate #324 (seed=1863646187)]
+tree B_324.1 = [&U] [&W 1] (1:31,(2:20,3:15):31,4:23);
+
+[Trees found in bootstrap replicate #325 (seed=1402398960)]
+tree B_325.1 = [&U] [&W 1] (1:37,(2:22,3:18):34,4:33);
+
+[Trees found in bootstrap replicate #326 (seed=56549512)]
+tree B_326.1 = [&U] [&W 1] (1:30,(2:19,3:20):50,4:17);
+
+[Trees found in bootstrap replicate #327 (seed=795301193)]
+tree B_327.1 = [&U] [&W 1] (1:31,(2:18,3:19):45,4:32);
+
+[Trees found in bootstrap replicate #328 (seed=632811520)]
+tree B_328.1 = [&U] [&W 1] (1:43,(2:16,3:19):41,4:30);
+
+[Trees found in bootstrap replicate #329 (seed=836495994)]
+tree B_329.1 = [&U] [&W 1] (1:45,(2:26,3:19):41,4:26);
+
+[Trees found in bootstrap replicate #330 (seed=775047325)]
+tree B_330.1 = [&U] [&W 1] (1:29,(2:24,3:12):38,4:23);
+
+[Trees found in bootstrap replicate #331 (seed=1971922285)]
+tree B_331.1 = [&U] [&W 1] (1:40,(2:26,3:17):42,4:28);
+
+[Trees found in bootstrap replicate #332 (seed=269709245)]
+tree B_332.1 = [&U] [&W 1] (1:43,(2:25,3:20):36,4:21);
+
+[Trees found in bootstrap replicate #333 (seed=334838936)]
+tree B_333.1 = [&U] [&W 1] (1:31,(2:25,3:17):40,4:23);
+
+[Trees found in bootstrap replicate #334 (seed=1491385118)]
+tree B_334.1 = [&U] [&W 1] (1:24,(2:20,3:17):42,4:25);
+
+[Trees found in bootstrap replicate #335 (seed=1093085537)]
+tree B_335.1 = [&U] [&W 1] (1:33,(2:26,3:23):44,4:26);
+
+[Trees found in bootstrap replicate #336 (seed=1747677727)]
+tree B_336.1 = [&U] [&W 1] (1:27,(2:23,3:13):45,4:31);
+
+[Trees found in bootstrap replicate #337 (seed=1362093939)]
+tree B_337.1 = [&U] [&W 1] (1:35,(2:22,3:17):43,4:22);
+
+[Trees found in bootstrap replicate #338 (seed=763387460)]
+tree B_338.1 = [&U] [&W 1] (1:21,(2:21,3:17):43,4:30);
+
+[Trees found in bootstrap replicate #339 (seed=592965725)]
+tree B_339.1 = [&U] [&W 1] (1:35,2:50,(3:26,4:14):13);
+
+[Trees found in bootstrap replicate #340 (seed=325470312)]
+tree B_340.1 = [&U] [&W 1] (1:32,(2:23,3:17):47,4:27);
+
+[Trees found in bootstrap replicate #341 (seed=487374518)]
+tree B_341.1 = [&U] [&W 1] (1:32,(2:31,3:14):41,4:34);
+
+[Trees found in bootstrap replicate #342 (seed=1345751984)]
+tree B_342.1 = [&U] [&W 1] (1:36,(2:24,3:24):43,4:32);
+
+[Trees found in bootstrap replicate #343 (seed=995397497)]
+tree B_343.1 = [&U] [&W 1] (1:32,(2:19,3:12):41,4:26);
+
+[Trees found in bootstrap replicate #344 (seed=728618174)]
+tree B_344.1 = [&U] [&W 1] (1:27,(2:17,3:27):40,4:27);
+
+[Trees found in bootstrap replicate #345 (seed=1481873750)]
+tree B_345.1 = [&U] [&W 1] (1:28,(2:22,3:11):39,4:26);
+
+[Trees found in bootstrap replicate #346 (seed=1917633360)]
+tree B_346.1 = [&U] [&W 1] (1:26,(2:23,3:16):38,4:27);
+
+[Trees found in bootstrap replicate #347 (seed=1191419058)]
+tree B_347.1 = [&U] [&W 1] (1:30,(2:21,3:19):39,4:35);
+
+[Trees found in bootstrap replicate #348 (seed=1860786241)]
+tree B_348.1 = [&U] [&W 1] (1:38,(2:14,3:19):49,4:38);
+
+[Trees found in bootstrap replicate #349 (seed=557303224)]
+tree B_349.1 = [&U] [&W 1] (1:29,(2:24,3:18):47,4:30);
+
+[Trees found in bootstrap replicate #350 (seed=1955334674)]
+tree B_350.1 = [&U] [&W 1] (1:37,(2:15,3:20):43,4:19);
+
+[Trees found in bootstrap replicate #351 (seed=200071272)]
+tree B_351.1 = [&U] [&W 1] (1:35,(2:21,3:16):41,4:26);
+
+[Trees found in bootstrap replicate #352 (seed=1667551978)]
+tree B_352.1 = [&U] [&W 1/2] (1:33,2:49,(3:20,4:23):13);
+tree B_352.2 = [&U] [&W 1/2] (1:34,(2:20,3:15):39,4:30);
+
+[Trees found in bootstrap replicate #353 (seed=279422410)]
+tree B_353.1 = [&U] [&W 1] (1:26,(2:24,3:14):33,4:27);
+
+[Trees found in bootstrap replicate #354 (seed=645851481)]
+tree B_354.1 = [&U] [&W 1] (1:30,(2:18,3:13):33,4:26);
+
+[Trees found in bootstrap replicate #355 (seed=1887601394)]
+tree B_355.1 = [&U] [&W 1] (1:30,(2:27,3:17):44,4:28);
+
+[Trees found in bootstrap replicate #356 (seed=1527069143)]
+tree B_356.1 = [&U] [&W 1] (1:41,(2:18,3:15):40,4:30);
+
+[Trees found in bootstrap replicate #357 (seed=771903125)]
+tree B_357.1 = [&U] [&W 1] (1:38,(2:27,3:15):30,4:26);
+
+[Trees found in bootstrap replicate #358 (seed=827401596)]
+tree B_358.1 = [&U] [&W 1] (1:37,(2:28,3:19):40,4:28);
+
+[Trees found in bootstrap replicate #359 (seed=473629834)]
+tree B_359.1 = [&U] [&W 1] (1:34,(2:20,3:19):34,4:30);
+
+[Trees found in bootstrap replicate #360 (seed=518337140)]
+tree B_360.1 = [&U] [&W 1] (1:33,(2:25,3:23):43,4:36);
+
+[Trees found in bootstrap replicate #361 (seed=1862162562)]
+tree B_361.1 = [&U] [&W 1] (1:35,(2:30,3:8):40,4:29);
+
+[Trees found in bootstrap replicate #362 (seed=504572763)]
+tree B_362.1 = [&U] [&W 1] (1:22,(2:25,3:20):33,4:35);
+
+[Trees found in bootstrap replicate #363 (seed=219517683)]
+tree B_363.1 = [&U] [&W 1] (1:35,(2:28,3:13):48,4:24);
+
+[Trees found in bootstrap replicate #364 (seed=158796386)]
+tree B_364.1 = [&U] [&W 1] (1:36,(2:23,3:12):37,4:26);
+
+[Trees found in bootstrap replicate #365 (seed=822724559)]
+tree B_365.1 = [&U] [&W 1] (1:31,(2:14,3:15):34,4:27);
+
+[Trees found in bootstrap replicate #366 (seed=1105369324)]
+tree B_366.1 = [&U] [&W 1] (1:29,(2:17,3:17):42,4:28);
+
+[Trees found in bootstrap replicate #367 (seed=618739769)]
+tree B_367.1 = [&U] [&W 1/2] (1:30,2:48,(3:18,4:23):15);
+tree B_367.2 = [&U] [&W 1/2] (1:27,(2:26,3:18):31,4:32);
+
+[Trees found in bootstrap replicate #368 (seed=1822384395)]
+tree B_368.1 = [&U] [&W 1] (1:28,(2:23,3:21):40,4:30);
+
+[Trees found in bootstrap replicate #369 (seed=1792296479)]
+tree B_369.1 = [&U] [&W 1] (1:38,(2:19,3:14):42,4:18);
+
+[Trees found in bootstrap replicate #370 (seed=559530117)]
+tree B_370.1 = [&U] [&W 1] (1:32,2:38,(3:28,4:13):21);
+
+[Trees found in bootstrap replicate #371 (seed=710605299)]
+tree B_371.1 = [&U] [&W 1] (1:32,(2:23,3:14):39,4:28);
+
+[Trees found in bootstrap replicate #372 (seed=1913939616)]
+tree B_372.1 = [&U] [&W 1] (1:36,(2:21,3:23):50,4:28);
+
+[Trees found in bootstrap replicate #373 (seed=1088364140)]
+tree B_373.1 = [&U] [&W 1] (1:32,(2:17,3:26):37,4:32);
+
+[Trees found in bootstrap replicate #374 (seed=978913880)]
+tree B_374.1 = [&U] [&W 1] (1:28,(2:19,3:21):40,4:25);
+
+[Trees found in bootstrap replicate #375 (seed=872312393)]
+tree B_375.1 = [&U] [&W 1] (1:34,(2:26,3:11):37,4:33);
+
+[Trees found in bootstrap replicate #376 (seed=396501181)]
+tree B_376.1 = [&U] [&W 1] (1:39,(2:26,3:16):43,4:28);
+
+[Trees found in bootstrap replicate #377 (seed=1463608975)]
+tree B_377.1 = [&U] [&W 1] (1:32,(2:28,3:16):44,4:36);
+
+[Trees found in bootstrap replicate #378 (seed=840305241)]
+tree B_378.1 = [&U] [&W 1] (1:29,(2:20,3:12):43,4:26);
+
+[Trees found in bootstrap replicate #379 (seed=396586551)]
+tree B_379.1 = [&U] [&W 1] (1:40,(2:25,3:11):36,4:33);
+
+[Trees found in bootstrap replicate #380 (seed=1351534881)]
+tree B_380.1 = [&U] [&W 1] (1:39,(2:22,3:12):31,4:26);
+
+[Trees found in bootstrap replicate #381 (seed=2010475133)]
+tree B_381.1 = [&U] [&W 1] (1:35,(2:25,3:15):53,4:21);
+
+[Trees found in bootstrap replicate #382 (seed=379337633)]
+tree B_382.1 = [&U] [&W 1] (1:28,(2:20,3:17):38,4:24);
+
+[Trees found in bootstrap replicate #383 (seed=89012496)]
+tree B_383.1 = [&U] [&W 1] (1:37,(2:24,3:15):31,4:26);
+
+[Trees found in bootstrap replicate #384 (seed=2001770622)]
+tree B_384.1 = [&U] [&W 1] (1:32,(2:15,3:16):37,4:28);
+
+[Trees found in bootstrap replicate #385 (seed=947940458)]
+tree B_385.1 = [&U] [&W 1] (1:33,(2:32,3:15):39,4:27);
+
+[Trees found in bootstrap replicate #386 (seed=1285219553)]
+tree B_386.1 = [&U] [&W 1] (1:22,(2:20,3:14):40,4:26);
+
+[Trees found in bootstrap replicate #387 (seed=1944215125)]
+tree B_387.1 = [&U] [&W 1] (1:30,(2:18,3:11):37,4:23);
+
+[Trees found in bootstrap replicate #388 (seed=897753844)]
+tree B_388.1 = [&U] [&W 1] (1:42,(2:23,3:12):35,4:27);
+
+[Trees found in bootstrap replicate #389 (seed=1397648956)]
+tree B_389.1 = [&U] [&W 1] (1:35,(2:20,3:23):30,4:26);
+
+[Trees found in bootstrap replicate #390 (seed=1276514963)]
+tree B_390.1 = [&U] [&W 1] (1:28,(2:23,3:14):37,4:27);
+
+[Trees found in bootstrap replicate #391 (seed=1114604677)]
+tree B_391.1 = [&U] [&W 1] (1:34,2:51,(3:28,4:21):20);
+
+[Trees found in bootstrap replicate #392 (seed=238550945)]
+tree B_392.1 = [&U] [&W 1] (1:28,(2:16,3:17):36,4:18);
+
+[Trees found in bootstrap replicate #393 (seed=70384874)]
+tree B_393.1 = [&U] [&W 1/2] (1:27,(2:24,3:20):37,4:27);
+tree B_393.2 = [&U] [&W 1/2] (1:30,2:46,(3:27,4:16):16);
+
+[Trees found in bootstrap replicate #394 (seed=2054467791)]
+tree B_394.1 = [&U] [&W 1] (1:39,(2:25,3:12):44,4:21);
+
+[Trees found in bootstrap replicate #395 (seed=1617774986)]
+tree B_395.1 = [&U] [&W 1] (1:42,(2:18,3:14):43,4:26);
+
+[Trees found in bootstrap replicate #396 (seed=1570022540)]
+tree B_396.1 = [&U] [&W 1] (1:25,(2:24,3:19):38,4:27);
+
+[Trees found in bootstrap replicate #397 (seed=1700821656)]
+tree B_397.1 = [&U] [&W 1/2] (1:46,2:33,(3:21,4:17):18);
+tree B_397.2 = [&U] [&W 1/2] (1:43,(2:16,3:20):29,4:27);
+
+[Trees found in bootstrap replicate #398 (seed=845892816)]
+tree B_398.1 = [&U] [&W 1] (1:32,(2:19,3:21):35,4:31);
+
+[Trees found in bootstrap replicate #399 (seed=842395509)]
+tree B_399.1 = [&U] [&W 1/2] (1:35,2:53,(3:19,4:19):12);
+tree B_399.2 = [&U] [&W 1/2] (1:34,(2:29,3:15):32,4:28);
+
+[Trees found in bootstrap replicate #400 (seed=220448836)]
+tree B_400.1 = [&U] [&W 1] (1:28,(2:20,3:13):32,4:28);
+
+[Trees found in bootstrap replicate #401 (seed=21210008)]
+tree B_401.1 = [&U] [&W 1/2] (1:39,(2:40,4:24):19,3:31);
+tree B_401.2 = [&U] [&W 1/2] (1:46,(2:21,3:24):36,4:26);
+
+[Trees found in bootstrap replicate #402 (seed=1483041046)]
+tree B_402.1 = [&U] [&W 1] (1:34,(2:19,3:18):34,4:31);
+
+[Trees found in bootstrap replicate #403 (seed=971112890)]
+tree B_403.1 = [&U] [&W 1/3] (1:45,(2:26,3:19):32,4:26);
+tree B_403.2 = [&U] [&W 1/3] (1:41,(2:44,4:25):14,3:24);
+tree B_403.3 = [&U] [&W 1/3] (1:44,2:51,(3:22,4:16):15);
+
+[Trees found in bootstrap replicate #404 (seed=1030851589)]
+tree B_404.1 = [&U] [&W 1] (1:35,(2:27,3:26):40,4:28);
+
+[Trees found in bootstrap replicate #405 (seed=789386337)]
+tree B_405.1 = [&U] [&W 1] (1:34,(2:23,3:23):40,4:36);
+
+[Trees found in bootstrap replicate #406 (seed=1311641191)]
+tree B_406.1 = [&U] [&W 1] (1:26,(2:22,3:19):39,4:33);
+
+[Trees found in bootstrap replicate #407 (seed=544302743)]
+tree B_407.1 = [&U] [&W 1] (1:30,(2:18,3:22):37,4:23);
+
+[Trees found in bootstrap replicate #408 (seed=990752348)]
+tree B_408.1 = [&U] [&W 1] (1:27,(2:26,3:17):39,4:22);
+
+[Trees found in bootstrap replicate #409 (seed=356718113)]
+tree B_409.1 = [&U] [&W 1] (1:41,(2:26,3:18):50,4:18);
+
+[Trees found in bootstrap replicate #410 (seed=1690892240)]
+tree B_410.1 = [&U] [&W 1] (1:28,(2:34,3:11):39,4:29);
+
+[Trees found in bootstrap replicate #411 (seed=1494891989)]
+tree B_411.1 = [&U] [&W 1] (1:33,(2:25,3:20):40,4:22);
+
+[Trees found in bootstrap replicate #412 (seed=982741256)]
+tree B_412.1 = [&U] [&W 1] (1:34,(2:23,3:19):31,4:31);
+
+[Trees found in bootstrap replicate #413 (seed=1273452667)]
+tree B_413.1 = [&U] [&W 1/2] (1:35,2:55,(3:32,4:17):17);
+tree B_413.2 = [&U] [&W 1/2] (1:33,(2:26,3:25):43,4:29);
+
+[Trees found in bootstrap replicate #414 (seed=83873897)]
+tree B_414.1 = [&U] [&W 1] (1:39,(2:23,3:16):36,4:31);
+
+[Trees found in bootstrap replicate #415 (seed=46927043)]
+tree B_415.1 = [&U] [&W 1] (1:42,(2:29,3:12):45,4:31);
+
+[Trees found in bootstrap replicate #416 (seed=391937185)]
+tree B_416.1 = [&U] [&W 1] (1:27,(2:17,3:17):39,4:27);
+
+[Trees found in bootstrap replicate #417 (seed=1478108593)]
+tree B_417.1 = [&U] [&W 1/2] (1:30,2:56,(3:21,4:19):15);
+tree B_417.2 = [&U] [&W 1/2] (1:29,(2:27,3:17):39,4:29);
+
+[Trees found in bootstrap replicate #418 (seed=820727491)]
+tree B_418.1 = [&U] [&W 1] (1:37,2:45,(3:28,4:20):19);
+
+[Trees found in bootstrap replicate #419 (seed=817800132)]
+tree B_419.1 = [&U] [&W 1/2] (1:39,2:44,(3:22,4:14):16);
+tree B_419.2 = [&U] [&W 1/2] (1:35,(2:21,3:16):37,4:26);
+
+[Trees found in bootstrap replicate #420 (seed=1816118945)]
+tree B_420.1 = [&U] [&W 1] (1:36,(2:30,3:13):35,4:32);
+
+[Trees found in bootstrap replicate #421 (seed=1286551290)]
+tree B_421.1 = [&U] [&W 1/2] (1:30,(2:22,3:22):32,4:28);
+tree B_421.2 = [&U] [&W 1/2] (1:31,2:41,(3:29,4:15):18);
+
+[Trees found in bootstrap replicate #422 (seed=332094459)]
+tree B_422.1 = [&U] [&W 1] (1:33,(2:20,3:15):41,4:24);
+
+[Trees found in bootstrap replicate #423 (seed=677527845)]
+tree B_423.1 = [&U] [&W 1] (1:38,(2:22,3:11):40,4:23);
+
+[Trees found in bootstrap replicate #424 (seed=256146670)]
+tree B_424.1 = [&U] [&W 1] (1:35,2:51,(3:24,4:9):17);
+
+[Trees found in bootstrap replicate #425 (seed=1710349198)]
+tree B_425.1 = [&U] [&W 1] (1:37,2:41,(3:23,4:17):15);
+
+[Trees found in bootstrap replicate #426 (seed=1293280719)]
+tree B_426.1 = [&U] [&W 1/2] (1:30,2:52,(3:17,4:21):19);
+tree B_426.2 = [&U] [&W 1/2] (1:30,(2:31,3:13):34,4:31);
+
+[Trees found in bootstrap replicate #427 (seed=1649179469)]
+tree B_427.1 = [&U] [&W 1] (1:34,(2:23,3:16):31,4:21);
+
+[Trees found in bootstrap replicate #428 (seed=1704627974)]
+tree B_428.1 = [&U] [&W 1] (1:29,(2:20,3:13):41,4:30);
+
+[Trees found in bootstrap replicate #429 (seed=1879505306)]
+tree B_429.1 = [&U] [&W 1] (1:19,(2:26,3:15):43,4:22);
+
+[Trees found in bootstrap replicate #430 (seed=1210549380)]
+tree B_430.1 = [&U] [&W 1] (1:36,(2:31,3:13):41,4:28);
+
+[Trees found in bootstrap replicate #431 (seed=825403559)]
+tree B_431.1 = [&U] [&W 1] (1:38,(2:23,3:18):37,4:31);
+
+[Trees found in bootstrap replicate #432 (seed=840910354)]
+tree B_432.1 = [&U] [&W 1] (1:40,(2:21,3:11):34,4:23);
+
+[Trees found in bootstrap replicate #433 (seed=921723144)]
+tree B_433.1 = [&U] [&W 1] (1:39,(2:23,3:12):37,4:23);
+
+[Trees found in bootstrap replicate #434 (seed=512861121)]
+tree B_434.1 = [&U] [&W 1] (1:37,(2:27,3:10):47,4:34);
+
+[Trees found in bootstrap replicate #435 (seed=14214371)]
+tree B_435.1 = [&U] [&W 1] (1:32,(2:29,3:13):32,4:33);
+
+[Trees found in bootstrap replicate #436 (seed=318823416)]
+tree B_436.1 = [&U] [&W 1] (1:32,(2:21,3:15):41,4:28);
+
+[Trees found in bootstrap replicate #437 (seed=1609287608)]
+tree B_437.1 = [&U] [&W 1/2] (1:32,2:49,(3:21,4:12):10);
+tree B_437.2 = [&U] [&W 1/2] (1:30,(2:26,3:15):34,4:19);
+
+[Trees found in bootstrap replicate #438 (seed=1267359778)]
+tree B_438.1 = [&U] [&W 1] (1:31,2:51,(3:31,4:12):21);
+
+[Trees found in bootstrap replicate #439 (seed=377210183)]
+tree B_439.1 = [&U] [&W 1] (1:31,(2:26,3:16):37,4:26);
+
+[Trees found in bootstrap replicate #440 (seed=1271765255)]
+tree B_440.1 = [&U] [&W 1] (1:34,(2:26,3:7):43,4:19);
+
+[Trees found in bootstrap replicate #441 (seed=397044128)]
+tree B_441.1 = [&U] [&W 1] (1:36,(2:21,3:14):47,4:19);
+
+[Trees found in bootstrap replicate #442 (seed=306185828)]
+tree B_442.1 = [&U] [&W 1] (1:38,(2:16,3:15):41,4:28);
+
+[Trees found in bootstrap replicate #443 (seed=84179459)]
+tree B_443.1 = [&U] [&W 1] (1:39,(2:28,3:12):40,4:27);
+
+[Trees found in bootstrap replicate #444 (seed=1501821609)]
+tree B_444.1 = [&U] [&W 1] (1:30,(2:25,3:19):42,4:34);
+
+[Trees found in bootstrap replicate #445 (seed=1759353624)]
+tree B_445.1 = [&U] [&W 1] (1:24,(2:27,3:14):43,4:32);
+
+[Trees found in bootstrap replicate #446 (seed=1227908741)]
+tree B_446.1 = [&U] [&W 1] (1:45,(2:22,3:19):41,4:24);
+
+[Trees found in bootstrap replicate #447 (seed=1238494865)]
+tree B_447.1 = [&U] [&W 1] (1:33,2:59,(3:25,4:18):16);
+
+[Trees found in bootstrap replicate #448 (seed=1473024110)]
+tree B_448.1 = [&U] [&W 1] (1:32,2:45,(3:24,4:13):12);
+
+[Trees found in bootstrap replicate #449 (seed=1817768686)]
+tree B_449.1 = [&U] [&W 1/2] (1:38,2:47,(3:18,4:14):16);
+tree B_449.2 = [&U] [&W 1/2] (1:35,(2:19,3:14):38,4:27);
+
+[Trees found in bootstrap replicate #450 (seed=827834028)]
+tree B_450.1 = [&U] [&W 1] (1:34,(2:25,3:17):38,4:28);
+
+[Trees found in bootstrap replicate #451 (seed=114566987)]
+tree B_451.1 = [&U] [&W 1] (1:39,(2:22,3:14):43,4:25);
+
+[Trees found in bootstrap replicate #452 (seed=1579662841)]
+tree B_452.1 = [&U] [&W 1] (1:37,(2:22,3:13):42,4:17);
+
+[Trees found in bootstrap replicate #453 (seed=1867813381)]
+tree B_453.1 = [&U] [&W 1/2] (1:31,(2:30,3:21):33,4:33);
+tree B_453.2 = [&U] [&W 1/2] (1:31,2:53,(3:28,4:20):16);
+
+[Trees found in bootstrap replicate #454 (seed=1786971778)]
+tree B_454.1 = [&U] [&W 1] (1:27,(2:26,3:17):38,4:33);
+
+[Trees found in bootstrap replicate #455 (seed=1354089367)]
+tree B_455.1 = [&U] [&W 1] (1:39,(2:29,3:13):31,4:22);
+
+[Trees found in bootstrap replicate #456 (seed=2009897485)]
+tree B_456.1 = [&U] [&W 1/2] (1:32,(2:26,3:21):33,4:26);
+tree B_456.2 = [&U] [&W 1/2] (1:32,2:49,(3:23,4:18):16);
+
+[Trees found in bootstrap replicate #457 (seed=813528824)]
+tree B_457.1 = [&U] [&W 1] (1:31,(2:25,3:15):37,4:32);
+
+[Trees found in bootstrap replicate #458 (seed=1133095970)]
+tree B_458.1 = [&U] [&W 1] (1:41,(2:18,3:26):30,4:25);
+
+[Trees found in bootstrap replicate #459 (seed=1464403083)]
+tree B_459.1 = [&U] [&W 1] (1:41,(2:23,3:22):37,4:20);
+
+[Trees found in bootstrap replicate #460 (seed=399655822)]
+tree B_460.1 = [&U] [&W 1] (1:26,(2:15,3:17):34,4:22);
+
+[Trees found in bootstrap replicate #461 (seed=81990068)]
+tree B_461.1 = [&U] [&W 1] (1:36,(2:22,3:21):45,4:23);
+
+[Trees found in bootstrap replicate #462 (seed=1966917180)]
+tree B_462.1 = [&U] [&W 1] (1:46,(2:24,3:20):47,4:32);
+
+[Trees found in bootstrap replicate #463 (seed=1199419921)]
+tree B_463.1 = [&U] [&W 1] (1:26,(2:22,3:12):40,4:26);
+
+[Trees found in bootstrap replicate #464 (seed=399340884)]
+tree B_464.1 = [&U] [&W 1] (1:30,(2:22,3:18):43,4:26);
+
+[Trees found in bootstrap replicate #465 (seed=566479758)]
+tree B_465.1 = [&U] [&W 1] (1:32,(2:23,3:15):35,4:30);
+
+[Trees found in bootstrap replicate #466 (seed=387619826)]
+tree B_466.1 = [&U] [&W 1] (1:31,(2:19,3:16):37,4:33);
+
+[Trees found in bootstrap replicate #467 (seed=74176482)]
+tree B_467.1 = [&U] [&W 1] (1:33,2:45,(3:17,4:16):23);
+
+[Trees found in bootstrap replicate #468 (seed=707100081)]
+tree B_468.1 = [&U] [&W 1] (1:39,2:45,(3:26,4:17):15);
+
+[Trees found in bootstrap replicate #469 (seed=780864762)]
+tree B_469.1 = [&U] [&W 1] (1:31,(2:42,4:22):16,3:26);
+
+[Trees found in bootstrap replicate #470 (seed=643241926)]
+tree B_470.1 = [&U] [&W 1] (1:34,(2:26,3:18):44,4:32);
+
+[Trees found in bootstrap replicate #471 (seed=1749976689)]
+tree B_471.1 = [&U] [&W 1] (1:39,(2:26,3:20):35,4:29);
+
+[Trees found in bootstrap replicate #472 (seed=1576527057)]
+tree B_472.1 = [&U] [&W 1] (1:41,(2:50,4:28):19,3:24);
+
+[Trees found in bootstrap replicate #473 (seed=250448363)]
+tree B_473.1 = [&U] [&W 1] (1:36,(2:20,3:17):37,4:25);
+
+[Trees found in bootstrap replicate #474 (seed=1103672519)]
+tree B_474.1 = [&U] [&W 1] (1:29,(2:23,3:16):42,4:32);
+
+[Trees found in bootstrap replicate #475 (seed=2053929510)]
+tree B_475.1 = [&U] [&W 1] (1:40,(2:24,3:16):40,4:26);
+
+[Trees found in bootstrap replicate #476 (seed=1253030133)]
+tree B_476.1 = [&U] [&W 1] (1:27,(2:25,3:14):43,4:29);
+
+[Trees found in bootstrap replicate #477 (seed=433900453)]
+tree B_477.1 = [&U] [&W 1] (1:30,(2:22,3:12):38,4:39);
+
+[Trees found in bootstrap replicate #478 (seed=1514160263)]
+tree B_478.1 = [&U] [&W 1] (1:33,(2:20,3:15):37,4:25);
+
+[Trees found in bootstrap replicate #479 (seed=1162207023)]
+tree B_479.1 = [&U] [&W 1] (1:39,(2:21,3:19):34,4:19);
+
+[Trees found in bootstrap replicate #480 (seed=2087288115)]
+tree B_480.1 = [&U] [&W 1] (1:39,(2:23,3:14):37,4:25);
+
+[Trees found in bootstrap replicate #481 (seed=1814545688)]
+tree B_481.1 = [&U] [&W 1] (1:28,(2:21,3:24):41,4:32);
+
+[Trees found in bootstrap replicate #482 (seed=1235789179)]
+tree B_482.1 = [&U] [&W 1] (1:39,(2:22,3:15):36,4:29);
+
+[Trees found in bootstrap replicate #483 (seed=1599148208)]
+tree B_483.1 = [&U] [&W 1] (1:36,(2:28,3:11):34,4:20);
+
+[Trees found in bootstrap replicate #484 (seed=1147640906)]
+tree B_484.1 = [&U] [&W 1/2] (1:36,(2:28,3:15):41,4:29);
+tree B_484.2 = [&U] [&W 1/2] (1:37,2:53,(3:27,4:14):18);
+
+[Trees found in bootstrap replicate #485 (seed=1914241022)]
+tree B_485.1 = [&U] [&W 1] (1:39,(2:27,3:14):30,4:35);
+
+[Trees found in bootstrap replicate #486 (seed=669081675)]
+tree B_486.1 = [&U] [&W 1] (1:36,2:53,(3:21,4:15):17);
+
+[Trees found in bootstrap replicate #487 (seed=1265705678)]
+tree B_487.1 = [&U] [&W 1] (1:32,(2:26,3:14):43,4:25);
+
+[Trees found in bootstrap replicate #488 (seed=696807381)]
+tree B_488.1 = [&U] [&W 1] (1:37,(2:23,3:17):44,4:24);
+
+[Trees found in bootstrap replicate #489 (seed=370869776)]
+tree B_489.1 = [&U] [&W 1/2] (1:35,(2:22,3:18):40,4:20);
+tree B_489.2 = [&U] [&W 1/2] (1:30,(2:46,4:19):14,3:26);
+
+[Trees found in bootstrap replicate #490 (seed=1553319176)]
+tree B_490.1 = [&U] [&W 1/2] (1:33,(2:44,4:31):21,3:24);
+tree B_490.2 = [&U] [&W 1/2] (1:41,2:54,(3:24,4:21):13);
+
+[Trees found in bootstrap replicate #491 (seed=324757546)]
+tree B_491.1 = [&U] [&W 1] (1:37,(2:25,3:13):54,4:25);
+
+[Trees found in bootstrap replicate #492 (seed=1180048955)]
+tree B_492.1 = [&U] [&W 1] (1:39,(2:29,3:21):39,4:30);
+
+[Trees found in bootstrap replicate #493 (seed=1466943757)]
+tree B_493.1 = [&U] [&W 1] (1:39,(2:20,3:18):35,4:26);
+
+[Trees found in bootstrap replicate #494 (seed=265676814)]
+tree B_494.1 = [&U] [&W 1] (1:42,2:45,(3:20,4:13):16);
+
+[Trees found in bootstrap replicate #495 (seed=1319023750)]
+tree B_495.1 = [&U] [&W 1] (1:34,(2:22,3:16):41,4:20);
+
+[Trees found in bootstrap replicate #496 (seed=743853093)]
+tree B_496.1 = [&U] [&W 1] (1:37,(2:31,3:14):37,4:26);
+
+[Trees found in bootstrap replicate #497 (seed=916374177)]
+tree B_497.1 = [&U] [&W 1] (1:36,(2:27,3:14):49,4:34);
+
+[Trees found in bootstrap replicate #498 (seed=1811889303)]
+tree B_498.1 = [&U] [&W 1] (1:36,(2:21,3:21):38,4:25);
+
+[Trees found in bootstrap replicate #499 (seed=1703746073)]
+tree B_499.1 = [&U] [&W 1] (1:34,(2:16,3:20):43,4:26);
+
+[Trees found in bootstrap replicate #500 (seed=1518861610)]
+tree B_500.1 = [&U] [&W 1] (1:31,(2:25,3:17):38,4:20);
+end;

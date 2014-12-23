@@ -1,0 +1,16 @@
+#mysql -t demo -p
+mysql -t students -p
+
+show tables;
+
+
+select name, course_id from table_a , table_b 
+where table_a.student_id = table_b.student_id
+and table_a.State = "Texas";
+
+select name, course_name from table_a , table_b , table_c 
+where table_a.student_id = table_b.student_id
+and table_a.state = "Texas"
+and table_b.course_id = table_c.course_id;
+
+

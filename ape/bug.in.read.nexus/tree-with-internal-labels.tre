@@ -1,0 +1,21 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Mon Jul  7 23:00:41 2008]
+	Translate
+		1 BA_3121_Ban,
+		2 BG10012_Bsu,
+		3 BG11595_Bsu,
+		4 BG13779_Bsu,
+		5 BG13780_Bsu,
+		6 BH3888_Bha,
+		7 BPUM_0868_Bpu,
+		8 Bmo3201_Bmo,
+		9 NT02BT3082_Bth,
+		10 NT03BL2052_Bli,
+		11 NT03BL4618_Bli,
+		12 RBAM_005880_Bam,
+		13 RBAM_009440_Bam,
+		14 RBAM_037610_Bam
+		;
+tree PAUP_1 = [&R] (1,((2,11,14)89.329956,(((3,(7,13)61.360794)55.963966,6)100.000000,4,(5,12)100.000000,(8,10)64.633133)95.867371)100.000000,9)0;
+End;

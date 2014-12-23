@@ -1,0 +1,3 @@
+grep ELVIS prot.db.faa | nl 
+
+

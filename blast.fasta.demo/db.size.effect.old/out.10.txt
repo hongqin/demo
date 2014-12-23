@@ -1,0 +1,262 @@
+BLASTP 2.2.16 [Mar-25-2007]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= first
+         (500 letters)
+
+Database: pepdb.10.faa 
+           10 sequences; 5000 total letters
+
+Searching..................................................done
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+1                                                                    1133   0.0  
+4                                                                      24   0.10 
+7                                                                      23   0.29 
+2                                                                      22   0.38 
+5                                                                      22   0.50 
+9                                                                      22   0.66 
+10                                                                     20   1.5  
+6                                                                      19   4.3  
+3                                                                      19   4.3  
+8                                                                      18   7.3  
+
+>1
+          Length = 500
+
+ Score = 1133 bits (2931), Expect = 0.0
+ Identities = 496/500 (99%), Positives = 496/500 (99%)
+
+Query: 1   HVDPTSIWWGGEPMEHTPEDPDQDDTMDHINMKHVRKRFDDLIVNGKIKSPEVMRLLQLD 60
+           HVDPTSIW GGEPMEHTPEDPDQDDTMDHINMKH RKRFDDLIVN KIKSPEVMRLLQLD
+Sbjct: 1   HVDPTSIWVGGEPMEHTPEDPDQDDTMDHINMKHFRKRFDDLIVNPKIKSPEVMRLLQLD 60
+
+Query: 61  AHVLTCGFEQGGRTDLMSWHSGHQCRFVKLCECIFDQSEFITNGTQTEKLVITYCMFNRA 120
+           AHVLTCGFEQGGRTDLMSWHSGHQCRFVKLCECIFDQSEFITNGTQTEKLVITYCMFNRA
+Sbjct: 61  AHVLTCGFEQGGRTDLMSWHSGHQCRFVKLCECIFDQSEFITNGTQTEKLVITYCMFNRA 120
+
+Query: 121 MDARTTTICKCMFPDWDHALWFPCRTSTRVGHWHRLSETIWDPSQCMHVWNMDGYKGQQP 180
+           MDARTTTICKCMFPDWDHALWFPCRTSTRVGHWHRLSETIWDPSQCMHVWNMDGYKGQQP
+Sbjct: 121 MDARTTTICKCMFPDWDHALWFPCRTSTRVGHWHRLSETIWDPSQCMHVWNMDGYKGQQP 180
+
+Query: 181 TCIQVWPKVMSMSPAWHHMHCTKHPDSDFDRSYIHQQLVWQHQSHFHVRCPLPTQECCSV 240
+           TCIQVWPKVMSMSPAWHHMHCTKHPDSDFDRSYIHQQLVWQHQSHFHVRCPLPTQECCSV
+Sbjct: 181 TCIQVWPKVMSMSPAWHHMHCTKHPDSDFDRSYIHQQLVWQHQSHFHVRCPLPTQECCSV 240
+
+Query: 241 WACSPHVYVPDMPEHNGKDHTRGTSFLQKNQLSWCVEQFNTFQASTDKRRHMKYNFVNRV 300
+           WACSPHVYVPDMPEHNGKDHTRGTSFLQKNQLSWCVEQFNTFQASTDKRRHMKYNFVNRV
+Sbjct: 241 WACSPHVYVPDMPEHNGKDHTRGTSFLQKNQLSWCVEQFNTFQASTDKRRHMKYNFVNRV 300
+
+Query: 301 ASRYRVDTCRRPTCNIFRHYNGPQFCNKHTGCLKTEGLQDNPRMVPMPQWICKLIGGSYA 360
+           ASRYRVDTCRRPTCNIFRHYNGPQFCNKHTGCLKTEGLQDNPRMVPMPQWICKLIGGSYA
+Sbjct: 301 ASRYRVDTCRRPTCNIFRHYNGPQFCNKHTGCLKTEGLQDNPRMVPMPQWICKLIGGSYA 360
+
+Query: 361 WTSESQASFWCQRVVHEFQVWPFWDSACMEWQIGPYYEEPNHWSMTDNEDQVFCITDPEM 420
+           WTSESQASFWCQRVVHEFQVWPFWDSACMEWQIGPYYEEPNHWSMTDNEDQVFCITDPEM
+Sbjct: 361 WTSESQASFWCQRVVHEFQVWPFWDSACMEWQIGPYYEEPNHWSMTDNEDQVFCITDPEM 420
+
+Query: 421 DFDESWYQNTAKMVLTCTHYCWWWVCWWTHRPPLHMLDTEKEHNKMKNQFNKPSDQPACF 480
+           DFDESWYQNTAKMVLTCTHYCWWWVCWWTHRPPLHMLDTEKEHNKMKNQFNKPSDQPACF
+Sbjct: 421 DFDESWYQNTAKMVLTCTHYCWWWVCWWTHRPPLHMLDTEKEHNKMKNQFNKPSDQPACF 480
+
+Query: 481 YPHCVPHDNTKACPEFVFHQ 500
+           YPHCVPHDNTK CPEFVFHQ
+Sbjct: 481 YPHCVPHDNTKVCPEFVFHQ 500
+
+
+>4
+          Length = 500
+
+ Score = 24.3 bits (51), Expect = 0.10
+ Identities = 15/65 (23%), Positives = 23/65 (35%), Gaps = 18/65 (27%)
+
+Query: 437 CTHYCWWW-----------------VCWWTHRPPLHMLDTEKEHNKMKNQFNKPSDQP-A 478
+           C  + WWW                 + W T  P +     +KEH   +   +KP D   +
+Sbjct: 164 CPQWFWWWFDDPLHGFTQTHFQGRVIKWLTLSPTVIKETGDKEHCNAQPGKHKPWDDTWS 223
+
+Query: 479 CFYPH 483
+           C  P+
+Sbjct: 224 CIIPY 228
+
+
+
+ Score = 18.5 bits (36), Expect = 5.6
+ Identities = 14/75 (18%), Positives = 28/75 (37%), Gaps = 2/75 (2%)
+
+Query: 319 HYNGPQFCNKHTGCLKTEGL--QDNPRMVPMPQWICKLIGGSYAWTSESQASFWCQRVVH 376
+           H+    +C +      ++ +  Q   R++ + Q   K+  G  AWT        C+  + 
+Sbjct: 17  HFKSGSYCYRRWEPYTSDSINMQVPRRVLKLQQNCSKVHVGCGAWTEMVDLFMHCRMCMQ 76
+
+Query: 377 EFQVWPFWDSACMEW 391
+             +     D   M+W
+Sbjct: 77  PMRSPDSGDWQGMQW 91
+
+
+>7
+          Length = 500
+
+ Score = 22.7 bits (47), Expect = 0.29
+ Identities = 5/7 (71%), Positives = 5/7 (71%)
+
+Query: 441 CWWWVCW 447
+           CW W CW
+Sbjct: 353 CWHWKCW 359
+
+
+
+ Score = 20.0 bits (40), Expect = 1.9
+ Identities = 8/27 (29%), Positives = 12/27 (44%)
+
+Query: 142 FPCRTSTRVGHWHRLSETIWDPSQCMH 168
+           +P R     GH    SE+ +   +C H
+Sbjct: 329 YPSRFWPLAGHMKHKSESRYKHQECWH 355
+
+
+
+ Score = 19.2 bits (38), Expect = 3.3
+ Identities = 6/20 (30%), Positives = 11/20 (55%)
+
+Query: 64 LTCGFEQGGRTDLMSWHSGH 83
+          +T    QGG+  + +W + H
+Sbjct: 12 ITVNLTQGGKCMVWTWFAQH 31
+
+
+>2
+          Length = 500
+
+ Score = 22.3 bits (46), Expect = 0.38
+ Identities = 20/96 (20%), Positives = 26/96 (27%), Gaps = 22/96 (22%)
+
+Query: 168 HVWNMDGYKGQQPT-------------C-------IQVWPKVMSMSPAWHHMHCTKHPDS 207
+           H W  DGY  +Q +             C         VWP +    P  +    T   + 
+Sbjct: 122 HSWRFDGYFKRQVSEMKHGVVKILTWWCWCNAGKQFNVWPTLSGTEPLNYQSGNTPGHEE 181
+
+Query: 208 DFDRSYIHQQLVWQHQSHFHVRCPLPTQECCSVWAC 243
+             D       + W   SH       P    C  W C
+Sbjct: 182 IHDDFKYWTHIHWNPTSHMMYMMRYPYM--CGFWGC 215
+
+
+
+ Score = 18.9 bits (37), Expect = 4.3
+ Identities = 4/8 (50%), Positives = 6/8 (75%)
+
+Query: 136 WDHALWFP 143
+           W+H +W P
+Sbjct: 463 WEHRMWNP 470
+
+
+>5
+          Length = 500
+
+ Score = 21.9 bits (45), Expect = 0.50
+ Identities = 10/29 (34%), Positives = 12/29 (41%), Gaps = 5/29 (17%)
+
+Query: 437 CTHYCWWWV-----CWWTHRPPLHMLDTE 460
+           C  YC   +     CW  H+PP    D E
+Sbjct: 447 CKQYCTALLFTEESCWKQHKPPRTCYDFE 475
+
+
+>9
+          Length = 500
+
+ Score = 21.6 bits (44), Expect = 0.66
+ Identities = 8/43 (18%), Positives = 15/43 (34%), Gaps = 6/43 (13%)
+
+Query: 426 WYQNTAKMVLTCTHYCWWW------VCWWTHRPPLHMLDTEKE 462
+           W+    K   +C    WW        C W  +  ++    +K+
+Sbjct: 134 WFHGRNKTQTSCGFQVWWMGKFRNKTCHWLSKGNIYHFGCQKQ 176
+
+
+>10
+          Length = 500
+
+ Score = 20.4 bits (41), Expect = 1.5
+ Identities = 18/60 (30%), Positives = 23/60 (38%), Gaps = 9/60 (15%)
+
+Query: 231 PLPTQECCSVWACSPHVYVPDMPEHNGKDHTRGT-SFLQK-----NQLSWCVEQFNTFQA 284
+           PL   + CS + CS      D  +H    +T  T   L K       L  C + F T QA
+Sbjct: 40  PLEDTDMCSRYGCS---IKDDTKQHKWSSNTNTTEQILTKVYHIVQSLGMCEQVFVTKQA 96
+
+
+>6
+          Length = 500
+
+ Score = 18.9 bits (37), Expect = 4.3
+ Identities = 10/30 (33%), Positives = 12/30 (40%), Gaps = 2/30 (6%)
+
+Query: 444 WVCWWTHRPPL--HMLDTEKEHNKMKNQFN 471
+           W  W T       HM +    H +MKN  N
+Sbjct: 3   WFTWVTQSMNCDSHMNEMGYMHKQMKNHSN 32
+
+
+>3
+          Length = 500
+
+ Score = 18.9 bits (37), Expect = 4.3
+ Identities = 6/19 (31%), Positives = 11/19 (57%)
+
+Query: 445 VCWWTHRPPLHMLDTEKEH 463
+           +C W  +  +   DT+K+H
+Sbjct: 379 ICPWKSKEHVCHKDTQKKH 397
+
+
+>8
+          Length = 500
+
+ Score = 18.1 bits (35), Expect = 7.3
+ Identities = 14/65 (21%), Positives = 24/65 (36%), Gaps = 1/65 (1%)
+
+Query: 251 DMPEHNGKDHTRGTSFLQKNQLSWCVEQFNTFQASTDKRRHMKYNFVNRVASRYRVDTCR 310
+           D  +  GK+ T    F   ++     E F   +    +  H K+N +N    ++  D   
+Sbjct: 393 DHADKQGKNRTMWQRFRANSKQGGHSEDFRHKKTYQRRGAHSKHN-LNSYIRKFNKDWLC 451
+
+Query: 311 RPTCN 315
+           R   N
+Sbjct: 452 RTMMN 456
+
+
+  Database: pepdb.10.faa
+    Posted date:  Jun 6, 2007 10:06 AM
+  Number of letters in database: 5000
+  Number of sequences in database:  10
+  
+Lambda     K      H
+   0.324    0.136    0.501 
+
+Gapped
+Lambda     K      H
+   0.267   0.0410    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 10
+Number of Hits to DB: 11,592
+Number of extensions: 768
+Number of successful extensions: 18
+Number of sequences better than 10.0: 10
+Number of HSP's gapped: 15
+Number of HSP's successfully gapped: 14
+Length of query: 500
+Length of database: 5000
+Length adjustment: 50
+Effective length of query: 450
+Effective length of database: 4500
+Effective search space:  2025000
+Effective search space used:  2025000
+Neighboring words threshold: 11
+Window for multiple hits: 40
+X1: 15 ( 7.0 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 34 (18.8 bits)
+S2: 34 (17.7 bits)

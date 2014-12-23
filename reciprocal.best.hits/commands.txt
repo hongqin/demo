@@ -1,0 +1,10 @@
+makeblastdb -in Bsu.prot.faa -title Bsu -out Bsu
+makeblastdb -in Bce.prot.faa -title Bce -out Bce
+
+#blastp -query Bsu.prot.faa -db Bce -out out6.Bsu.2.Bce.txt -outfmt 6 -evalue 0.0002
+blastp -query Bsu.prot.faa -db Bce -out out10.Bsu.2.Bce.csv -outfmt 10 -evalue 0.0002
+
+blastp -query Bce.prot.faa -db Bsu -out out6.Bce.2.Bsu.txt -outfmt 6 -evalue 0.0002
+
+
+ 

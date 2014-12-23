@@ -1,0 +1,2 @@
+variscan cds.phylip cds.conf  > output.txt
+

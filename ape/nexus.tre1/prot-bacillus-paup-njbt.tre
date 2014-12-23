@@ -1,0 +1,41 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Sat Jul  5 22:25:04 2008]
+[!
+>Data file = /home/hqin/projects/coat.protein07/orthog.analysis/merge.mcl.rbh.061208/bacillus.phylo.I3.1/BG14052/prot-bacillus-paup.nexus
+>Bootstrap method with heuristic search:
+>  Number of bootstrap replicates = 500
+>  Starting seed = 504564849
+>  Optimality criterion = parsimony
+>    Character-status summary:
+>      Of 129 total characters:
+>        All characters are of type 'unord'
+>        All characters have equal weight
+>        40 characters are constant
+>        81 variable characters are parsimony-uninformative
+>        Number of parsimony-informative characters = 8
+>    Gaps are treated as "missing"
+>  Starting tree(s) obtained via stepwise addition
+>  Addition sequence: random
+>    Number of replicates = 10
+>    Starting seed = 504564849
+>  Number of trees held at each step during stepwise addition = 1
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR)
+>  Steepest descent option not in effect
+>  Initial 'MaxTrees' setting = 100
+>  Branches collapsed (creating polytomies) if maximum branch length is zero
+>  'MulTrees' option in effect
+>  Topological constraints not enforced
+>  Trees are unrooted
+>
+>   500 bootstrap replicates completed
+>   Time used = <1 sec (CPU time = 0.09 sec)
+]
+	Translate
+		1 BG14052_Bsu,
+		2 BPUM_2842_Bpu,
+		3 NT03BL3561_Bli,
+		4 RBAM_028810_Bam
+		;
+tree PAUP_1 = [&R] (1,(2,3)84.433334,4)0;
+End;

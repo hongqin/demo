@@ -1,0 +1,48 @@
+# fasta query.faa db.faa -O _out.fasta.txt
+FASTA searches a protein or DNA sequence data bank version 34.26.5 April 26, 2007
+Please cite:
+ W.R. Pearson & D.J. Lipman PNAS (1988) 85:2444-2448
+
+ first, 42 aa
+ vs db.faa library
+
+     90 residues in     2 sequences
+ Altschul/Gish params: n0: 42 Lambda: 0.158 K: 0.019 H: 0.100
+
+FASTA (3.5 Sept 2006) function [optimized, BL50 matrix (15:-5)] ktup: 2
+ join: 36, opt: 24, open/ext: -10/-2, width:  16
+The best scores are:                                      opt bits E(2)
+second                                             (  41)  211 59.1 5.5e-15
+third                                              (  49)  188 53.5 3.1e-13
+
+
+>>second                                                  (41 aa)
+ initn: 204 init1: 165 opt: 211  Z-score: 306.9  bits: 59.1 E(): 5.5e-15
+Smith-Waterman score: 211;  88.372% identity (88.372% similar) in 43 aa overlap (1-42:1-41)
+
+                10        20        30        40  
+first  THEREAREH-IGHWAYSBETWEENATLANTAANDNASHVILLE
+       ::::::::  :::   :::::::::::::::::::::::::::
+second THEREAREFLIGH--TSBETWEENATLANTAANDNASHVILLE
+               10          20        30        40 
+
+>>third                                                   (49 aa)
+ initn: 137 init1:  99 opt: 188  Z-score: 275.4  bits: 53.5 E(): 3.1e-13
+Smith-Waterman score: 188;  77.551% identity (77.551% similar) in 49 aa overlap (1-42:1-47)
+
+                    10        20        30          40    
+first  THEREAREH-----IGHWAYSBETWEENATLANTA--ANDNASHVILLE  
+       ::::::::      :::   :::::::::::::::  ::::::::::::  
+third  THEREAREAFEWFLIGH--TSBETWEENATLANTAGAANDNASHVILLETN
+               10          20        30        40         
+
+
+
+
+42 residues in 1 query   sequences
+90 residues in 2 library sequences
+ Scomplib [34.26]
+ start: Mon Jun 25 20:24:30 2007 done: Mon Jun 25 20:24:36 2007
+ Total Scan time:  0.000 Total Display time:  0.000
+
+Function used was FASTA [version 34.26.5 April 26, 2007]

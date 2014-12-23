@@ -1,0 +1,1 @@
+2011 July 21.  I worked out TASSEL tutorial dataset on GLM with control for population structure. I had trouble to follow its user guide. 

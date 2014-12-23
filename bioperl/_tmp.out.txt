@@ -1,0 +1,78 @@
+Tree 0:Bha Bcl Bpu Bli Bam Bmo Bsu Bwe Bce Ban Bth 
+((Bha,Bcl), (Bpu,(Bli,(Bam,(Bmo,Bsu)))),  (Bwe,(Bce,(Ban,Bth))));
+----------
+Tree 1:Bha Bcl Bpu Bli Bam Bsu  Bwe Bce Ban Bth 
+((Bha,Bcl), (Bpu,(Bli,(Bam,     Bsu ))),  (Bwe,(Bce,(Ban,Bth))));
+----------
+Tree 2:Bha Bcl Bpu Bli Bsu  Bwe Bce Ban Bth 
+((Bha,Bcl), (Bpu,(Bli,Bsu )),  (Bwe,(Bce,(Ban,Bth))));
+----------
+Tree 3:Bha Bpu Bli Bam Bmo Bsu Bwe Bce Ban Bth 
+( Bha, (Bpu,(Bli,(Bam,(Bmo,Bsu)))),  (Bwe,(Bce,(Ban,Bth))));
+----------
+Tree 4:Bli Bmo Bsu Bwe Bce Ban Bth 
+( (Bli,(Bmo,Bsu)),  (Bwe,(Bce,(Ban,Bth))) );
+----------
+Tree 5:Bpu Bli Bam Bmo Bsu Bwe Bce Ban Bth 
+( (Bpu,(Bli,(Bam,(Bmo,Bsu)))),  (Bwe,(Bce,(Ban,Bth))));
+----------
+Tree 6:Bha Bli Bmo Bsu Bwe Bce Ban Bth 
+( Bha, (Bli,(Bmo,Bsu)),  (Bwe,(Bce,(Ban,Bth))));
+----------
+Tree 7:Bcl Bpu Bli Bam Bsu Bce 
+(Bcl, (Bpu,(Bli,(Bam, Bsu), Bce)));
+----------
+Tree 8:Bam Bsu  Bwe Bce Ban Bth 
+(                      (Bam,     Bsu ) ,  (Bwe,(Bce,(Ban,Bth))));
+----------
+Tree 9:Bha Bcl Bli Bam Bmo Bsu Bwe Bce Ban Bth 
+((Bha,Bcl),       (Bli,(Bam,(Bmo,Bsu))),  (Bwe,(Bce,(Ban,Bth))));
+----------
+Tree 10:Bha Bcl Bpu Bli Bam Bmo Bsu 
+((Bha,Bcl), (Bpu,(Bli,(Bam,(Bmo,Bsu))))                         );
+----------
+Tree 11:Bha Bpu Bli Bam Bmo Bsu 
+(Bha, (Bpu,(Bli,(Bam,(Bmo,Bsu)))) );
+----------
+Tree 12:Bpu Bli Bmo Bsu 
+(Bpu,(Bli,(Bmo,Bsu)));
+----------
+Tree 13:Bha Bcl Bpu Bli Bam Bmo Bsu Bce 
+((Bha,Bcl), (Bpu,(Bli,(Bam,(Bmo,Bsu)))),        Bce);
+----------
+Tree 14:Bha Bpu Bam Bsu 
+( Bha,       (Bpu,     (Bam,Bsu)));
+----------
+Tree 15:Bli Bam Bsu Bwe Bce Ban Bth 
+(    Bli,(Bam,Bsu),  (Bwe,(Bce,(Ban,Bth))));
+----------
+Tree 16:Bpu Bam Bmo Bsu 
+(Bpu, Bam, (Bmo, Bsu));
+----------
+Tree 17:Bha Bpu Bam Bmo Bsu Ban Bth 
+( Bha, (Bpu, (Bam,(Bmo,Bsu))),  (Ban,Bth));
+----------
+Tree 18:Bsu Ban Bwe Bha 
+(Bsu, (Ban, Bwe), Bha);
+----------
+Tree 19:Bcl Bli Bam Bsu  Bwe Bce Ban Bth 
+(( Bcl,  (Bli,(Bam, Bsu ))),  (Bwe,(Bce,(Ban,Bth))));
+----------
+Tree 20:Bha Bcl Bpu Bam Bsu  Bwe Bce Ban Bth 
+((Bha,Bcl),(Bpu,(Bam,Bsu )),  (Bwe,(Bce,(Ban,Bth))));
+----------
+Tree 21:Bli Bam Bmo Bsu Bwe Bce Ban Bth 
+( (Bli,(Bam,(Bmo,Bsu))),  (Bwe,(Bce,(Ban,Bth))));
+----------
+Tree 22:Bli Bsu Bmo Ban Bth Bce Bwe 
+((Bli, (Bsu, Bmo)),   ((Ban, Bth),Bce, Bwe));
+----------
+Tree 23:Bcl Bpu Bli Bam Bsu  Bwe Bce Ban Bth 
+(Bcl, (Bpu,(Bli,(Bam,     Bsu ))),  (Bwe,(Bce,(Ban,Bth))));
+----------
+Tree 24:Bpu Bli Bam Bsu Bce Ban Bth 
+((Bpu,(Bli,(Bam,Bsu))),  (Bce,(Ban,Bth)));
+----------
+Tree 25:Bpu Bli Bam Bsu 
+(Bpu, Bli,(Bam,Bsu));
+----------

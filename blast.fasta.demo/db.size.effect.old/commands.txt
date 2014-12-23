@@ -1,0 +1,5 @@
+c:/blast/bin/formatdb -i db.faa
+
+c:/blast/bin/blastall -p blastp -d db.faa -i first.faa -F F
+
+c:/blast/bin/blastall -p blastp -d pepdb.10.faa -i my.seq.faa -m 9

@@ -1,0 +1,18 @@
+# This is to demonstrate a bug in read.nexus() when the input nexus
+# tree file contain internal labels (such as bootstrap numbers). 
+
+  library(ape);
+# source("read.nexus.R");
+
+ t1 = read.nexus( "tree-brlens.tre" );
+ t2 = read.nexus( "tree-no-labels.tre");
+ t3 = read.nexus( "tree-with-internal-labels.tre" );
+
+  plot(t1, main="tree with branch lengths, correct" );
+  plot(t2, main="tree without labels, correct" );
+  plot(t3, main="tree with internal labels, WRONG" );
+
+  t3$tip.label #correct
+  t3$edge; #wrong edges
+
+  dev.off();

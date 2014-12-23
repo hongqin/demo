@@ -1,0 +1,4 @@
+ Gblocks prot-bacillus-align.faa -t=p -b4=2 -b5=a
+ Gblocks prot-bacillus-align.faa -t=p -b4=2 -b5=a -b0=2
+
+

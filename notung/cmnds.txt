@@ -1,0 +1,5 @@
+$ java -jar Notung-2.5.jar -b /home/hqin/demo/notung/my.batch.run --reconcile --speciestag prefix
+
+$ java -jar Notung-2.5.jar -b /home/hqin/demo/notung/my.batch.run --reconcile --speciestag prefix \
+  --treeoutput newick
+

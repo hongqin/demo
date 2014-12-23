@@ -1,0 +1,3 @@
+prot-bacillus-paup-nj-brlens.tre
+prot-bacillus-paup-nj.tre
+prot-bacillus-paup-njbt.tre
