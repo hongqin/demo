@@ -1,0 +1,41 @@
+---
+title: "GillespieSSA test. Single species"
+author: "h qin"
+date: "December 13, 2015"
+output: html_document
+---
+
+Example from Pineda-Krch08 J of Statistical Software. 
+```{r}
+rm(list=ls())
+library(GillespieSSA)
+parms = c(b=2, d=1, K=1000)
+x0 = c(N=500)
+nu = matrix(c(+1,-1), ncol=2)
+a = c("b*N", "(b+(b-d)*N/K)*N")
+tf = 10
+method = "D"
+simName = "Logistic growth"
+```
+
+```{r}
+parms
+nu 
+a
+```
+
+
+```{r}
+out = ssa(x0, a, nu, parms, tf, method, simName, verbose = TRUE, consoleInterval = 1)
+```
+
+```{r}
+str(out)
+```
+
+```{r}
+out
+```
+
+
+
