@@ -1,0 +1,47 @@
+---
+title: "GillespieSSA simulation of mutation of wildtype cells to cancer cells"
+author: "H Qin"
+date: "December 13, 2015"
+output: html_document
+---
+
+This is for Spelman BIO125 MSH2 project
+
+```{r}
+rm(list=ls())
+library(GillespieSSA)
+parms = c(b=2, d=1, K=1000, alpha=0.007, w=0.0035, c=2,g=2)
+x0 = c(N=1000, P=100)
+nu = matrix(c(+1,-1,-1, 0,0,
+              0,  0, 0,+1,-1), nrow=2, byrow=TRUE)
+a = c("b*N", 
+      "(d+(b-d)*N/K)*N", 
+      "alpha/(1+w*N)*N*P",
+      "c*alpha/(1+w*N)*N*P",
+      "g*P")
+tf = 100
+method = "D"
+simName = "Predator-prey model"
+```
+
+```{r}
+parms
+nu 
+a
+```
+
+
+```{r}
+out = ssa(x0, a, nu, parms, tf, method, simName, 
+          verbose = TRUE, consoleInterval = 10, maxWallTime = 30)
+```
+
+```{r}
+summary(out$data)
+plot( out$data[,2] ~ out$data[,1], ylab = "N")
+plot( out$data[,3] ~ out$data[,1], ylab = "Predator")
+```
+
+
+
+

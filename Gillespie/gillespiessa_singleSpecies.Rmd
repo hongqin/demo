@@ -33,9 +33,6 @@ out = ssa(x0, a, nu, parms, tf, method, simName, verbose = TRUE, consoleInterval
 str(out)
 ```
 
-```{r}
-out
-```
 
 
 
