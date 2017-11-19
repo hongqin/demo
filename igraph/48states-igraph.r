@@ -1,9 +1,10 @@
 #continental US demo, igraph usage
 
-require(RCurl)
+#require(RCurl)
 require(igraph)
-URL = "https://docs.google.com/spreadsheet/pub?key=0ArLJZixvTlU7dDI5c3dnTzdRX1dndzBORUk1UC0wYlE&single=true&gid=0&output=csv"
-states = read.csv(textConnection(getURL(URL)), colClass = c("character", "character"))
+#URL = "https://docs.google.com/spreadsheet/pub?key=0ArLJZixvTlU7dDI5c3dnTzdRX1dndzBORUk1UC0wYlE&single=true&gid=0&output=csv"
+#states = read.csv(textConnection(getURL(URL)), colClass = c("character", "character"))
+states = read.csv("48states.csv", colClass = c("character", "character"))
 
 g = graph.data.frame(states, directed=F)
 g.degree = degree(g)
@@ -15,7 +16,9 @@ sorted.names = sort( rownames(g.shortestpath.m) )
 gsm = g.shortestpath.m[, sorted.names]
 gsm = gsm[sorted.names, ]
 
-URL2 = "https://docs.google.com/spreadsheet/pub?key=0ArLJZixvTlU7dC1rTlRhTkw5UlY0eWZGT1JOVUVCWGc&single=true&gid=0&output=csv"
-state.year.tb = read.csv(textConnection(getURL(URL2)), colClass = c("character", NA))
+#URL2 = "https://docs.google.com/spreadsheet/pub?key=0ArLJZixvTlU7dC1rTlRhTkw5UlY0eWZGT1JOVUVCWGc&single=true&gid=0&output=csv"
+#state.year.tb = read.csv(textConnection(getURL(URL2)), colClass = c("character", NA))
+
+# http://igraph.org/r/doc/as_adjacency_matrix.html
 
 
