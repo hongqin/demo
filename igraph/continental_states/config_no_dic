@@ -1,0 +1,49 @@
+>48 continetal states and theiry bodering configuration
+Alabama  Florida   Georgia   Mississippi   Tennessee
+Arizona California   Colorado   Nevada   New_Mexico   Utah
+Arkansas  Louisiana   Mississippi   Missouri   Oklahoma   Tennessee   Texas
+California Arizona   Nevada   Oregon
+Colorado  Arizona   Kansas   Nebraska   New_Mexico   Oklahoma   Utah   Wyoming
+Connecticut Massachusetts New_York Rhode_Island
+Delaware  Maryland   New_Jersey   Pennsylvania
+Florida  Alabama   Georgia
+Georgia Alabama   Florida   North_Carolina   South_Carolina   Tennessee
+Idaho  Montana   Nevada   Oregon   Utah   Washington   Wyoming
+Illinois  Indiana   Iowa   Michigan   Kentucky   Missouri   Wisconsin
+Indiana Illinois   Kentucky   Michigan   Ohio
+Iowa  Illinois   Minnesota   Missouri   Nebraska   South_Dakota   Wisconsin
+Kansas  Colorado   Missouri   Nebraska   Oklahoma
+Kentucky Illinois   Indiana   Missouri   Ohio   Tennessee   Virginia   West_Virginia
+Louisiana  Arkansas   Mississippi   Texas
+Maine New_Hampshire
+Maryland  Delaware   Pennsylvania   Virginia   West_Virginia
+Massachusetts  Connecticut   New_Hampshire   New_York   Rhode_Island   Vermont
+Michigan Illinois   Indiana   Minnesota   Ohio   Wisconsin
+Minnesota  Iowa   Michigan  North_Dakota   South_Dakota   Wisconsin
+Mississippi Alabama   Arkansas   Louisiana   Tennessee
+Missouri  Arkansas   Illinois   Iowa   Kansas   Kentucky   Nebraska   Oklahoma   Tennessee
+Montana Idaho   North_Dakota   South_Dakota   Wyoming
+Nebraska  Colorado   Iowa   Kansas   Missouri   South_Dakota   Wyoming
+Nevada  Arizona   California   Idaho   Oregon   Utah
+New_Hampshire  Maine   Massachusetts   Vermont
+New_Jersey  Delaware   New_York   Pennsylvania
+New_Mexico  Arizona   Colorado   Oklahoma   Texas   Utah
+New_York Connecticut   Massachusetts   New_Jersey   Pennsylvania   Rhode_Island   Vermont
+North_Carolina  Georgia   South_Carolina   Tennessee   Virginia
+North_Dakota  Minnesota   Montana   South_Dakota
+Ohio  Indiana   Kentucky   Michigan   Pennsylvania   West_Virginia
+Oklahoma  Arkansas   Colorado   Kansas   Missouri   New_Mexico   Texas
+Oregon  California   Idaho   Nevada   Washington
+Pennsylvania  Delaware   Maryland   New_Jersey   New_York   Ohio   West_Virginia
+Rhode_Island Connecticut   Massachusetts   New_York 
+South_Carolina  Georgia   North_Carolina
+South_Dakota  Iowa   Minnesota   Montana   Nebraska   North_Dakota   Wyoming
+Tennessee Alabama   Arkansas   Georgia   Kentucky   Mississippi   Missouri   North_Carolina   Virginia
+Texas  Arkansas   Louisiana   New_Mexico   Oklahoma
+Utah Arizona   Colorado   Idaho   Nevada   New_Mexico   Wyoming
+Vermont  Massachusetts   New_Hampshire   New_York
+Virginia  Kentucky   Maryland   North_Carolina   Tennessee   West_Virginia
+Washington  Idaho   Oregon
+West_Virginia  Kentucky   Maryland   Ohio   Pennsylvania   Virginia
+Wisconsin Illinois   Iowa   Michigan   Minnesota
+Wyoming	Colorado   Idaho   Montana   Nebraska   South_Dakota   Utah

@@ -1,0 +1,28 @@
+>dijkastra_by_categories.pl network:'_largest' 10/13/2002 13:29:29 older header: >Largest component from file:_pairs.tab Nodes:48 Edges:110  13/10/2002 13:29:26 
+Average shortest path:
+initial intermediate recent
+--------------------------------------
+1.38	1.23	1.08	  | initial 
+1.28	1.17	1.06	  | intermediate 
+1.24	1.12	1.18	  | recent 
+
+Standard deviation:
+initial intermediate recent
+--------------------------------------
+0.62	0.42	0.27	  | initial 
+0.45	0.37	0.23	  | intermediate 
+0.42	0.32	0.38	  | recent 
+
+Symmetical average shortest path:
+initial intermediate recent
+--------------------------------------
+1.38	1.26	1.17	  | initial 
+1.26	1.17	1.09	  | intermediate 
+1.17	1.09	1.18	  | recent 
+
+Symmetical Standard deviation:
+initial intermediate recent
+--------------------------------------
+0.62	0.44	0.37	  | initial 
+0.44	0.37	0.28	  | intermediate 
+0.37	0.28	0.38	  | recent 

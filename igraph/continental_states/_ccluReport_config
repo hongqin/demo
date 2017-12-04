@@ -1,0 +1,27 @@
+>cclu01 analysis of network:'config', dictionary:'dic', null-model-report:'_nullReport', 8/21/2002 16:38:3 Old header: >Translated network configuration. In:config Dic:dic9/8/2002 16:10:41 Old header: >48 continetal states and theiry bodering configuration
+
+Total number of same-colored clusters: 7
+
+Cluster sizes for each color/category:
+initial:13 
+intermediate:1 1 1 15 
+recent:1 16 
+
+Maximal cluster size for each color/category:
+initial:13, intermediate:15, recent:16, 
+P-value for the maximal cluster size of each color/category:
+initial:<0.1, intermediate:<0.1, recent:<0.1, 
+Z-score for the maximal cluster size of each color/category:
+initial:3.2, intermediate:2.9, recent:4.8, 
+
+Number of same-colored clusters for each color/category:
+initial:1, intermediate:4, recent:2, 
+Z-score for the number of clusters of each color/category:
+initial:-3.2, intermediate:-2.5, recent:-3, 
+P-value for the number of clusters of each color/category:
+initial:<0.1, intermediate:<0.1, recent:<0.1, 
+
+Average cluster size for each color/category:
+initial:13, intermediate:4.5, recent:8.5, 
+Z-score for the average cluster size of each color/category:
+initial:13.9, intermediate:3.7, recent:8, 

@@ -1,0 +1,10 @@
+Field:[OUTPUT_FILE]	Value:[48sates.net]
+Field:[NETWORK_FORMAT]	Value:[adjacency_list]
+Field:[NETWORK_FILE]	Value:[config2]
+Field:[CLUSTER_FLAG]	Value:[NO]
+Field:[DICTIONARY_FILE]	Value:[NONE]
+Field:[CATEGORY_TO_COLOR_FILE]	Value:[color_scheme.tab]
+Field:[EDGE_TO_COLOR_FILE]	Value:[NONE]
+Field:[CONSIDER_SELF_INTERACTION]	Value:[NO]
+
+ There are 48 records in config2 

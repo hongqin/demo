@@ -1,0 +1,48 @@
+(initialize_single_source) $p_distances is:
+ALABAMA => 188	ARIZONA => 188	ARKANSAS => 188	CALIFORNIA => 188	COLORADO => 188	CONNECTICUT => 188	DELAWARE => 188	FLORIDA => 188	GEORGIA => 188	IDAHO => 188	ILLINOIS => 0	INDIANA => 188	IOWA => 188	KANSAS => 188	KENTUCKY => 188	LOUISIANA => 188	MAINE => 188	MARYLAND => 188	MASSACHUSETTS => 188	MICHIGAN => 188	MINNESOTA => 188	MISSISSIPPI => 188	MISSOURI => 188	MONTANA => 188	NEBRASKA => 188	NEVADA => 188	NEW_HAMPSHIRE => 188	NEW_JERSEY => 188	NEW_MEXICO => 188	NEW_YORK => 188	NORTH_CAROLINA => 188	NORTH_DAKOTA => 188	OHIO => 188	OKLAHOMA => 188	OREGON => 188	PENNSYLVANIA => 188	RHODE_ISLAND => 188	SOUTH_CAROLINA => 188	SOUTH_DAKOTA => 188	TENNESSEE => 188	TEXAS => 188	UTAH => 188	VERMONT => 188	VIRGINIA => 188	WASHINGTON => 188	WEST_VIRGINIA => 188	WISCONSIN => 188	WYOMING => 188	
+(Util.showHashTable)There are 48 pairs in the above hash table.
+(initialize_single_source) $p_predecessors is:
+ALABAMA => 	ARIZONA => 	ARKANSAS => 	CALIFORNIA => 	COLORADO => 	CONNECTICUT => 	DELAWARE => 	FLORIDA => 	GEORGIA => 	IDAHO => 	ILLINOIS => 	INDIANA => 	IOWA => 	KANSAS => 	KENTUCKY => 	LOUISIANA => 	MAINE => 	MARYLAND => 	MASSACHUSETTS => 	MICHIGAN => 	MINNESOTA => 	MISSISSIPPI => 	MISSOURI => 	MONTANA => 	NEBRASKA => 	NEVADA => 	NEW_HAMPSHIRE => 	NEW_JERSEY => 	NEW_MEXICO => 	NEW_YORK => 	NORTH_CAROLINA => 	NORTH_DAKOTA => 	OHIO => 	OKLAHOMA => 	OREGON => 	PENNSYLVANIA => 	RHODE_ISLAND => 	SOUTH_CAROLINA => 	SOUTH_DAKOTA => 	TENNESSEE => 	TEXAS => 	UTAH => 	VERMONT => 	VIRGINIA => 	WASHINGTON => 	WEST_VIRGINIA => 	WISCONSIN => 	WYOMING => 	
+(Util.showHashTable)There are 48 pairs in the above hash table.
+0 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188
+(extract_min)@know_elements are:[]
+(extract_min)$know_max is: 0
+(extract_min)$min is: 0
+(extract_min)[ILLINOIS] is the closest node.
+(extract_min) [ILLINOIS] is removed from Queue
+(relax) $p_distances[INDIANA] is updated to [1]
+(relax) $p_predecessors[INDIANA] is updated to [ILLINOIS]
+(relax) $p_distances[IOWA] is updated to [1]
+(relax) $p_predecessors[IOWA] is updated to [ILLINOIS]
+(relax) $p_distances[MICHIGAN] is updated to [1]
+(relax) $p_predecessors[MICHIGAN] is updated to [ILLINOIS]
+(relax) $p_distances[KENTUCKY] is updated to [1]
+(relax) $p_predecessors[KENTUCKY] is updated to [ILLINOIS]
+(relax) $p_distances[MISSOURI] is updated to [1]
+(relax) $p_predecessors[MISSOURI] is updated to [ILLINOIS]
+(relax) $p_distances[WISCONSIN] is updated to [1]
+(relax) $p_predecessors[WISCONSIN] is updated to [ILLINOIS]
+0 1 1 1 1 1 1 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188
+(extract_min)@know_elements are:[ILLINOIS]
+(extract_min)$know_max is: 0
+(extract_min)$min is: 0
+0 1 1 1 1 1 1 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188
+(extract_min)@know_elements are:[ ILLINOIS]
+(extract_min)$know_max is: 0
+(extract_min)$min is: 0
+0 1 1 1 1 1 1 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188
+(extract_min)@know_elements are:[ ILLINOIS]
+(extract_min)$know_max is: 0
+(extract_min)$min is: 0
+0 1 1 1 1 1 1 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188
+(extract_min)@know_elements are:[ ILLINOIS]
+(extract_min)$know_max is: 0
+(extract_min)$min is: 0
+0 1 1 1 1 1 1 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188
+(extract_min)@know_elements are:[ ILLINOIS]
+(extract_min)$know_max is: 0
+(extract_min)$min is: 0
+0 1 1 1 1 1 1 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188 188
+(extract_min)@know_elements are:[ ILLINOIS]
+(extract_min)$know_max is: 0
+(extract_min)$min is: 0

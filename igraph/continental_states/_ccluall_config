@@ -1,0 +1,12 @@
+>ccluall on net:'config' category:'cat2' dictionary:'dic' color-scheme:none 8/19/2002 22:41:20 old_header:>Translated network configuration. In:config Dic:dic9/8/2002 16:10:41 Old header: >48 continetal states and theiry bodering configuration
+initial intermediate recent
+Cluster sizes:
+initial:13 
+intermediate:1 1 1 15 
+recent:1 16 
+Number of  clusters:
+initial=>1, intermediate=>4, recent=>2, 
+Maximal cluster size:
+initial=>13, intermediate=>15, recent=>16, 
+Average cluster size:
+initial=>13, intermediate=>4.5, recent=>8.5, 

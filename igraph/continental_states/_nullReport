@@ -1,0 +1,120 @@
+>ccluall on net:'gin.config10' category:'cat' dictionary:'dic' color-scheme:none 8/20/2002 11:20:50 old_header:>Isomorphic null 19/8/2002 21:7:51  on config dic
+initial intermediate recent
+Cluster sizes:
+initial:2 1 2 3 1 1 3 
+intermediate:2 1 7 2 6 
+recent:1 4 1 1 1 6 2 1 
+Number of  clusters:
+initial=>7, intermediate=>5, recent=>8, 
+Maximal cluster size:
+initial=>3, intermediate=>7, recent=>6, 
+Average cluster size:
+initial=>1.85, intermediate=>3.6, recent=>2.12, 
+>ccluall on net:'gin.config10' category:'cat' dictionary:'dic' color-scheme:none 8/20/2002 11:20:50 old_header:>Isomorphic null 19/8/2002 21:7:51  on config dic
+initial intermediate recent
+Cluster sizes:
+initial:1 1 1 1 2 1 1 5 
+intermediate:1 1 1 1 1 13 
+recent:1 1 6 6 1 1 1 
+Number of  clusters:
+initial=>8, intermediate=>6, recent=>7, 
+Maximal cluster size:
+initial=>5, intermediate=>13, recent=>6, 
+Average cluster size:
+initial=>1.62, intermediate=>3, recent=>2.42, 
+>ccluall on net:'gin.config10' category:'cat' dictionary:'dic' color-scheme:none 8/20/2002 11:20:50 old_header:>Isomorphic null 19/8/2002 21:7:51  on config dic
+initial intermediate recent
+Cluster sizes:
+initial:2 1 1 3 1 1 2 2 
+intermediate:1 1 4 4 2 4 2 
+recent:8 2 5 2 
+Number of  clusters:
+initial=>8, intermediate=>7, recent=>4, 
+Maximal cluster size:
+initial=>3, intermediate=>4, recent=>8, 
+Average cluster size:
+initial=>1.62, intermediate=>2.57, recent=>4.25, 
+>ccluall on net:'gin.config10' category:'cat' dictionary:'dic' color-scheme:none 8/20/2002 11:20:50 old_header:>Isomorphic null 19/8/2002 21:7:51  on config dic
+initial intermediate recent
+Cluster sizes:
+initial:2 1 4 5 1 
+intermediate:3 2 1 11 1 
+recent:1 8 2 2 1 1 2 
+Number of  clusters:
+initial=>5, intermediate=>5, recent=>7, 
+Maximal cluster size:
+initial=>5, intermediate=>11, recent=>8, 
+Average cluster size:
+initial=>2.6, intermediate=>3.6, recent=>2.42, 
+>ccluall on net:'gin.config10' category:'cat' dictionary:'dic' color-scheme:none 8/20/2002 11:20:50 old_header:>Isomorphic null 19/8/2002 21:7:51  on config dic
+initial intermediate recent
+Cluster sizes:
+initial:2 6 5 
+intermediate:7 2 1 2 5 1 
+recent:1 1 1 6 2 2 1 1 1 1 
+Number of  clusters:
+initial=>3, intermediate=>6, recent=>10, 
+Maximal cluster size:
+initial=>6, intermediate=>7, recent=>6, 
+Average cluster size:
+initial=>4.33, intermediate=>3, recent=>1.7, 
+>ccluall on net:'gin.config10' category:'cat' dictionary:'dic' color-scheme:none 8/20/2002 11:20:50 old_header:>Isomorphic null 19/8/2002 21:7:51  on config dic
+initial intermediate recent
+Cluster sizes:
+initial:1 1 9 1 1 
+intermediate:8 1 2 1 5 1 
+recent:1 2 1 1 1 8 2 1 
+Number of  clusters:
+initial=>5, intermediate=>6, recent=>8, 
+Maximal cluster size:
+initial=>9, intermediate=>8, recent=>8, 
+Average cluster size:
+initial=>2.6, intermediate=>3, recent=>2.12, 
+>ccluall on net:'gin.config10' category:'cat' dictionary:'dic' color-scheme:none 8/20/2002 11:20:50 old_header:>Isomorphic null 19/8/2002 21:7:51  on config dic
+initial intermediate recent
+Cluster sizes:
+initial:1 2 1 8 1 
+intermediate:1 1 1 1 8 3 2 1 
+recent:1 3 11 1 1 
+Number of  clusters:
+initial=>5, intermediate=>8, recent=>5, 
+Maximal cluster size:
+initial=>8, intermediate=>8, recent=>11, 
+Average cluster size:
+initial=>2.6, intermediate=>2.25, recent=>3.4, 
+>ccluall on net:'gin.config10' category:'cat' dictionary:'dic' color-scheme:none 8/20/2002 11:20:50 old_header:>Isomorphic null 19/8/2002 21:7:51  on config dic
+initial intermediate recent
+Cluster sizes:
+initial:1 1 9 1 1 
+intermediate:1 1 1 1 9 5 
+recent:1 1 1 5 3 2 2 2 
+Number of  clusters:
+initial=>5, intermediate=>6, recent=>8, 
+Maximal cluster size:
+initial=>9, intermediate=>9, recent=>5, 
+Average cluster size:
+initial=>2.6, intermediate=>3, recent=>2.12, 
+>ccluall on net:'gin.config10' category:'cat' dictionary:'dic' color-scheme:none 8/20/2002 11:20:50 old_header:>Isomorphic null 19/8/2002 21:7:51  on config dic
+initial intermediate recent
+Cluster sizes:
+initial:2 2 2 3 3 1 
+intermediate:1 6 4 1 1 1 4 
+recent:1 2 9 1 2 2 
+Number of  clusters:
+initial=>6, intermediate=>7, recent=>6, 
+Maximal cluster size:
+initial=>3, intermediate=>6, recent=>9, 
+Average cluster size:
+initial=>2.16, intermediate=>2.57, recent=>2.83, 
+>ccluall on net:'gin.config10' category:'cat' dictionary:'dic' color-scheme:none 8/20/2002 11:20:50 old_header:>Isomorphic null 19/8/2002 21:7:51  on config dic
+initial intermediate recent
+Cluster sizes:
+initial:4 1 3 1 2 1 1 
+intermediate:1 1 1 3 1 4 7 
+recent:1 1 1 3 2 5 2 1 1 
+Number of  clusters:
+initial=>7, intermediate=>7, recent=>9, 
+Maximal cluster size:
+initial=>4, intermediate=>7, recent=>5, 
+Average cluster size:
+initial=>1.85, intermediate=>2.57, recent=>1.88, 

@@ -1,0 +1,7 @@
+*Vertices  3
+  1  "initial" 0.5 0.6  ic Red  
+  2  "intermediate" 0.5 0.7  ic Blue  
+  3  "recent"  0.5 0.8 ic Black  
+*Edges 
+  1  2 1 c Black 
+  2 3 1 c Black 

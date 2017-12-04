@@ -1,0 +1,160 @@
+*Vertices  48 
+  1  "NORTH_CAROLINA"  ic Red  
+  2  "TEXAS"  ic Blue  
+  3  "CONNECTICUT"  ic Red  
+  4  "UTAH"  ic Black  
+  5  "MASSACHUSETTS"  ic Red  
+  6  "ARKANSAS"  ic Blue  
+  7  "LOUISIANA"  ic Blue  
+  8  "COLORADO"  ic Black  
+  9  "IOWA"  ic Blue  
+  10  "IDAHO"  ic Black  
+  11  "SOUTH_CAROLINA"  ic Red  
+  12  "NEW_HAMPSHIRE"  ic Red  
+  13  "MISSOURI"  ic Blue  
+  14  "MISSISSIPPI"  ic Blue  
+  15  "TENNESSEE"  ic Blue  
+  16  "NEW_MEXICO"  ic Black  
+  17  "FLORIDA"  ic Blue  
+  18  "GEORGIA"  ic Red  
+  19  "MONTANA"  ic Black  
+  20  "OHIO"  ic Blue  
+  21  "WISCONSIN"  ic Blue  
+  22  "ARIZONA"  ic Black  
+  23  "MINNESOTA"  ic Black  
+  24  "SOUTH_DAKOTA"  ic Black  
+  25  "WYOMING"  ic Black  
+  26  "ALABAMA"  ic Blue  
+  27  "NORTH_DAKOTA"  ic Black  
+  28  "DELAWARE"  ic Red  
+  29  "MAINE"  ic Blue  
+  30  "NEW_YORK"  ic Red  
+  31  "OKLAHOMA"  ic Black  
+  32  "ILLINOIS"  ic Blue  
+  33  "RHODE_ISLAND"  ic Red  
+  34  "CALIFORNIA"  ic Blue  
+  35  "VIRGINIA"  ic Red  
+  36  "KENTUCKY"  ic Blue  
+  37  "VERMONT"  ic Blue  
+  38  "WEST_VIRGINIA"  ic Black  
+  39  "OREGON"  ic Black  
+  40  "WASHINGTON"  ic Black  
+  41  "INDIANA"  ic Blue  
+  42  "NEW_JERSEY"  ic Red  
+  43  "KANSAS"  ic Black  
+  44  "PENNSYLVANIA"  ic Red  
+  45  "MICHIGAN"  ic Blue  
+  46  "MARYLAND"  ic Red  
+  47  "NEVADA"  ic Black  
+  48  "NEBRASKA"  ic Black  
+*Edges 
+  44  28 1 c Black 
+  21  32 1 c Black 
+  45  41 1 c Black 
+  37  30 1 c Black 
+  4  47 1 c Black 
+  31  43 1 c Black 
+  46  28 1 c Black 
+  40  39 1 c Black 
+  11  1 1 c Black 
+  15  26 1 c Black 
+  39  34 1 c Black 
+  24  19 1 c Black 
+  34  22 1 c Black 
+  2  16 1 c Black 
+  44  30 1 c Black 
+  17  26 1 c Black 
+  4  10 1 c Black 
+  13  6 1 c Black 
+  31  6 1 c Black 
+  13  9 1 c Black 
+  15  1 1 c Black 
+  31  8 1 c Black 
+  35  46 1 c Black 
+  4  16 1 c Black 
+  2  6 1 c Black 
+  2  7 1 c Black 
+  31  13 1 c Black 
+  33  3 1 c Black 
+  13  32 1 c Black 
+  47  10 1 c Black 
+  15  6 1 c Black 
+  33  5 1 c Black 
+  38  20 1 c Black 
+  21  45 1 c Black 
+  31  16 1 c Black 
+  24  9 1 c Black 
+  13  36 1 c Black 
+  35  1 1 c Black 
+  4  8 1 c Black 
+  24  23 1 c Black 
+  23  45 1 c Black 
+  15  36 1 c Black 
+  24  27 1 c Black 
+  37  5 1 c Black 
+  39  47 1 c Black 
+  35  15 1 c Black 
+  9  32 1 c Black 
+  25  48 1 c Black 
+  44  42 1 c Black 
+  18  17 1 c Black 
+  20  36 1 c Black 
+  36  32 1 c Black 
+  4  22 1 c Black 
+  37  12 1 c Black 
+  40  10 1 c Black 
+  44  46 1 c Black 
+  48  8 1 c Black 
+  48  9 1 c Black 
+  30  42 1 c Black 
+  12  29 1 c Black 
+  13  43 1 c Black 
+  39  10 1 c Black 
+  47  22 1 c Black 
+  14  26 1 c Black 
+  41  32 1 c Black 
+  38  35 1 c Black 
+  38  36 1 c Black 
+  25  10 1 c Black 
+  16  22 1 c Black 
+  48  43 1 c Black 
+  8  22 1 c Black 
+  1  18 1 c Black 
+  2  31 1 c Black 
+  25  19 1 c Black 
+  12  5 1 c Black 
+  30  3 1 c Black 
+  30  5 1 c Black 
+  20  41 1 c Black 
+  11  18 1 c Black 
+  21  9 1 c Black 
+  21  23 1 c Black 
+  18  26 1 c Black 
+  45  32 1 c Black 
+  20  45 1 c Black 
+  36  41 1 c Black 
+  14  6 1 c Black 
+  27  19 1 c Black 
+  14  7 1 c Black 
+  23  9 1 c Black 
+  25  4 1 c Black 
+  16  8 1 c Black 
+  5  3 1 c Black 
+  15  13 1 c Black 
+  25  8 1 c Black 
+  15  14 1 c Black 
+  48  13 1 c Black 
+  47  34 1 c Black 
+  43  8 1 c Black 
+  38  44 1 c Black 
+  33  30 1 c Black 
+  38  46 1 c Black 
+  15  18 1 c Black 
+  25  24 1 c Black 
+  42  28 1 c Black 
+  7  6 1 c Black 
+  24  48 1 c Black 
+  44  20 1 c Black 
+  19  10 1 c Black 
+  27  23 1 c Black 
+  35  36 1 c Black 

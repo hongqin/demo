@@ -1,0 +1,49 @@
+>Largest component from file:_pairs.tab Nodes:48 Edges:110  13/10/2002 13:29:26 
+TEXAS:intermediate	DELAWARE:initial	MISSOURI:intermediate	MONTANA:recent	TENNESSEE:intermediate	
+DELAWARE:initial	TEXAS:intermediate	KANSAS:recent	OHIO:intermediate	
+MISSOURI:intermediate	TENNESSEE:intermediate	NEVADA:recent	WISCONSIN:intermediate	TEXAS:intermediate	MICHIGAN:intermediate	VERMONT:intermediate	UTAH:recent	IDAHO:recent	
+MONTANA:recent	SOUTH_CAROLINA:initial	FLORIDA:intermediate	MISSISSIPPI:intermediate	TEXAS:intermediate	
+TENNESSEE:intermediate	UTAH:recent	COLORADO:recent	MISSOURI:intermediate	MASSACHUSETTS:initial	ALABAMA:intermediate	TEXAS:intermediate	SOUTH_DAKOTA:recent	MICHIGAN:intermediate	
+KANSAS:recent	ARKANSAS:intermediate	NEBRASKA:recent	DELAWARE:initial	VIRGINIA:initial	
+OHIO:intermediate	VERMONT:intermediate	ARKANSAS:intermediate	NEW_MEXICO:recent	SOUTH_DAKOTA:recent	DELAWARE:initial	
+NEVADA:recent	WYOMING:recent	MISSOURI:intermediate	LOUISIANA:intermediate	PENNSYLVANIA:initial	INDIANA:intermediate	
+WISCONSIN:intermediate	LOUISIANA:intermediate	MISSOURI:intermediate	WEST_VIRGINIA:recent	ILLINOIS:intermediate	
+MICHIGAN:intermediate	RHODE_ISLAND:initial	MISSOURI:intermediate	NEBRASKA:recent	TENNESSEE:intermediate	ILLINOIS:intermediate	
+VERMONT:intermediate	OHIO:intermediate	MISSOURI:intermediate	NORTH_DAKOTA:recent	
+UTAH:recent	TENNESSEE:intermediate	MASSACHUSETTS:initial	ARIZONA:recent	COLORADO:recent	MISSOURI:intermediate	NORTH_DAKOTA:recent	
+IDAHO:recent	NORTH_CAROLINA:initial	ILLINOIS:intermediate	IOWA:intermediate	MASSACHUSETTS:initial	CONNECTICUT:initial	MISSOURI:intermediate	
+SOUTH_CAROLINA:initial	MONTANA:recent	INDIANA:intermediate	
+FLORIDA:intermediate	MONTANA:recent	OKLAHOMA:recent	
+MISSISSIPPI:intermediate	NEW_YORK:initial	MINNESOTA:recent	KENTUCKY:intermediate	MONTANA:recent	
+COLORADO:recent	TENNESSEE:intermediate	NEW_JERSEY:initial	CALIFORNIA:intermediate	OKLAHOMA:recent	ALABAMA:intermediate	UTAH:recent	MASSACHUSETTS:initial	
+MASSACHUSETTS:initial	ILLINOIS:intermediate	UTAH:recent	TENNESSEE:intermediate	IDAHO:recent	COLORADO:recent	
+ALABAMA:intermediate	NEW_JERSEY:initial	NORTH_DAKOTA:recent	COLORADO:recent	TENNESSEE:intermediate	
+SOUTH_DAKOTA:recent	WEST_VIRGINIA:recent	ARKANSAS:intermediate	IOWA:intermediate	OHIO:intermediate	KENTUCKY:intermediate	TENNESSEE:intermediate	
+ARKANSAS:intermediate	IOWA:intermediate	SOUTH_DAKOTA:recent	KANSAS:recent	OHIO:intermediate	NEW_MEXICO:recent	OKLAHOMA:recent	
+NEBRASKA:recent	RHODE_ISLAND:initial	KANSAS:recent	GEORGIA:initial	KENTUCKY:intermediate	MICHIGAN:intermediate	IOWA:intermediate	
+VIRGINIA:initial	GEORGIA:initial	NEW_HAMPSHIRE:initial	MINNESOTA:recent	WEST_VIRGINIA:recent	KANSAS:recent	
+NEW_MEXICO:recent	ARIZONA:recent	OHIO:intermediate	OKLAHOMA:recent	ARKANSAS:intermediate	OREGON:recent	
+WYOMING:recent	WEST_VIRGINIA:recent	NEVADA:recent	RHODE_ISLAND:initial	MARYLAND:initial	INDIANA:intermediate	NEW_YORK:initial	
+LOUISIANA:intermediate	WISCONSIN:intermediate	NEVADA:recent	NEW_YORK:initial	
+PENNSYLVANIA:initial	OREGON:recent	NEW_JERSEY:initial	OKLAHOMA:recent	MARYLAND:initial	IOWA:intermediate	NEVADA:recent	
+INDIANA:intermediate	WYOMING:recent	KENTUCKY:intermediate	SOUTH_CAROLINA:initial	NEVADA:recent	
+WEST_VIRGINIA:recent	WYOMING:recent	SOUTH_DAKOTA:recent	WASHINGTON:recent	WISCONSIN:intermediate	VIRGINIA:initial	
+ILLINOIS:intermediate	MASSACHUSETTS:initial	NEW_YORK:initial	KENTUCKY:intermediate	IDAHO:recent	WISCONSIN:intermediate	MICHIGAN:intermediate	
+RHODE_ISLAND:initial	MICHIGAN:intermediate	NEBRASKA:recent	WYOMING:recent	
+NORTH_DAKOTA:recent	ALABAMA:intermediate	VERMONT:intermediate	UTAH:recent	
+ARIZONA:recent	KENTUCKY:intermediate	CONNECTICUT:initial	OREGON:recent	NEW_MEXICO:recent	UTAH:recent	
+NORTH_CAROLINA:initial	IDAHO:recent	OREGON:recent	NEW_HAMPSHIRE:initial	MINNESOTA:recent	
+IOWA:intermediate	ARKANSAS:intermediate	SOUTH_DAKOTA:recent	IDAHO:recent	PENNSYLVANIA:initial	GEORGIA:initial	NEBRASKA:recent	
+CONNECTICUT:initial	ARIZONA:recent	GEORGIA:initial	IDAHO:recent	
+OKLAHOMA:recent	WASHINGTON:recent	FLORIDA:intermediate	PENNSYLVANIA:initial	COLORADO:recent	NEW_MEXICO:recent	ARKANSAS:intermediate	
+NEW_YORK:initial	MISSISSIPPI:intermediate	ILLINOIS:intermediate	LOUISIANA:intermediate	MAINE:intermediate	WYOMING:recent	MARYLAND:initial	
+MINNESOTA:recent	VIRGINIA:initial	MISSISSIPPI:intermediate	GEORGIA:initial	CALIFORNIA:intermediate	NORTH_CAROLINA:initial	
+KENTUCKY:intermediate	ARIZONA:recent	ILLINOIS:intermediate	MISSISSIPPI:intermediate	SOUTH_DAKOTA:recent	NEBRASKA:recent	INDIANA:intermediate	NEW_HAMPSHIRE:initial	
+NEW_JERSEY:initial	ALABAMA:intermediate	PENNSYLVANIA:initial	COLORADO:recent	
+CALIFORNIA:intermediate	MARYLAND:initial	COLORADO:recent	MINNESOTA:recent	
+GEORGIA:initial	VIRGINIA:initial	MINNESOTA:recent	NEBRASKA:recent	IOWA:intermediate	CONNECTICUT:initial	
+NEW_HAMPSHIRE:initial	VIRGINIA:initial	NORTH_CAROLINA:initial	KENTUCKY:intermediate	
+OREGON:recent	PENNSYLVANIA:initial	ARIZONA:recent	NORTH_CAROLINA:initial	NEW_MEXICO:recent	
+MARYLAND:initial	CALIFORNIA:intermediate	WYOMING:recent	PENNSYLVANIA:initial	NEW_YORK:initial	
+WASHINGTON:recent	WEST_VIRGINIA:recent	OKLAHOMA:recent	
+MAINE:intermediate	NEW_YORK:initial	

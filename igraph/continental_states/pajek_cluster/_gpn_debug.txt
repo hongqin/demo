@@ -1,0 +1,10 @@
+Field:[OUTPUT_FILE]	Value:[us_clusters.net]
+Field:[NETWORK_FORMAT]	Value:[adjacency_list]
+Field:[NETWORK_FILE]	Value:[clusters.config]
+Field:[CLUSTER_FLAG]	Value:[YES]
+Field:[DICTIONARY_FILE]	Value:[NONE]
+Field:[CATEGORY_TO_COLOR_FILE]	Value:[color_scheme.tab]
+Field:[EDGE_TO_COLOR_FILE]	Value:[NONE]
+Field:[CONSIDER_SELF_INTERACTION]	Value:[NO]
+
+ There are 7 records in clusters.config 

@@ -1,0 +1,16 @@
+*Vertices  7 
+  1  "CALIFORNIA (1)" 0.1 0.5  x_fact 1 y_fact 1  ic Blue  
+  2  "VIRGINIA (13)" 0.7 0.5  x_fact 3.6 y_fact 3.6  ic Red  
+  3  "VERMONT (1)" 0.7 0.3 x_fact 1 y_fact 1  ic Blue  
+  4  "MAINE (1)" 0.9 0.3  x_fact 1 y_fact 1  ic Blue  
+  5  "WEST_VIRGINIA (1)" 0.5 0.3  x_fact 1 y_fact 1  ic Black  
+  6  "WYOMING (16)" 0.3 0.5  x_fact 4 y_fact 4  ic Black  
+  7  "WISCONSIN (15)" 0.5 0.5  x_fact 3.8 y_fact 3.8  ic Blue  
+*Edges 
+  2  3 1 c Black 
+  2  4 1 c Black 
+  7  2 1 c Black 
+  5  2 1 c Black 
+  6  7 1 c Black 
+  6  1 1 c Black 
+  7  5 1 c Black 
